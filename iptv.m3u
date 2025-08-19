@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 group-title="ULUSAL",TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 group-title="ULUSAL",TRT Türk
