@@ -1,0 +1,216 @@
+#EXTM3U
+
+# Haber Kanalları
+
+#EXTINF:-1 tvg-id="trthaber" tvg-name="TRT Haber" tvg-logo="https://seeklogo.com/images/T/trt-haber-logo-BD6903B6DB-seeklogo.com.png" group-title="Haber Kanalları",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="haberturk" tvg-name="Habertürk" tvg-logo="https://seeklogo.com/images/H/haberturk-tv-ve-gazete-logo-E6E5B3CEE6-seeklogo.com.png" group-title="Haber Kanalları",Habertürk
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN Türk" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREGFBn77z9hfpmU_1niZjEPQGPTahGfO8-sz2lpQPYw77oi-SW45YSkGqsFImDTIZX616vsFy2t7O5WTWWGCv3gNTazPsdhK9Sen1HsQ" group-title="Haber Kanalları",CNN Türk
+https://x.canlitvapp.com/cnn/tracks-v1a1/mono.m3u8?token=b3b7902d3cebf63d0350afba760a8bec7dbb0bc9-37ac1825bb14d6fea2eacd9fb4101c9d-1734036179-1734025379
+
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://yt3.googleusercontent.com/DNtj-vFL6GGkFn6Os_2soKy-XAWy6IJp7ee4ckJoI2e9bK-5WQtWfAekLIOqddoADSxg7s0wqg=s900-c-k-c0x00ffffff-no-rj" group-title="Haber Kanalları",NTV
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+
+#EXTINF:-1 tvg-id="haberglobal" tvg-name="Haber Global" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqL9yZ8WHA1dYvUicU5uxGhL3etpEwmovGyb_6M7s-TTFaluie3eAmtiCTIiTxSYid2CKFolnuymTJpi17bKkJgZdSppn_EO_s2l00ayA" group-title="Haber Kanalları",Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+
+#EXTINF:-1 tvg-id="tgrthaber" tvg-name="TGRT Haber" tvg-logo="https://i.tgrthaber.com/assets/images/logo.png" group-title="Haber Kanalları",TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
+
+#EXTINF:-1 tvg-id="ahaber" tvg-name="A Haber" tvg-logo="https://yt3.googleusercontent.com/J-MO0c7Y8sVJMemkFBfwtZVWWxMYwFw7fugyCj9eyHUNFMEpPSGiSNgG8nehOw0vuvBD0qgTEg=s900-c-k-c0x00ffffff-no-rj" group-title="Haber Kanalları",A Haber
+https://x.canlitvapp.com/ahaber/tracks-v1a1/mono.m3u8?token=cde460f5c3cb5804d2e57770854c4af4a2fefd26-82930831c0f05873a6546e839857d54d-1734035746-1734024946
+
+#EXTINF:-1 tvg-id="tv100" tvg-name="TV100" tvg-logo="https://play-lh.googleusercontent.com/k5wrikGyT1yvqKKf3k_7MoUNUaAYARF0rGDX1I_PBppuczYoT-eP52LUTuW6xZbpGvY" group-title="Haber Kanalları",TV100
+https://ensonhaber-live.ercdn.net/tv100/tv100_1080p.m3u8
+
+#EXTINF:-1 tvg-id="ekoltv" tvg-name="EKOL TV" tvg-logo="https://yt3.googleusercontent.com/t_LBbSpJGM0W-NI9GXAX-5Cmgou4_pIrYGyyFTRPRAx7v99_7PxsJOp86pzd0GuotLRjDV0uJQ=s900-c-k-c0x00ffffff-no-rj" group-title="Haber Kanalları",EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="halktv" tvg-name="Halk TV" tvg-logo="https://pbs.twimg.com/profile_images/1746888719620030464/oGV6AE33_400x400.jpg" group-title="Haber Kanalları",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1 tvg-id="sozcutv" tvg-name="Sözcü TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="Haber Kanalları",Szc TV
+https://x.canlitvapp.com/sozcu/tracks-v1a1/mono.m3u8?token=ebcff053e2a6a5e9478be1e1f164f80c77f6da61-a994a6fb60f604108b7a1266b94ba076-1734035952-1734025152
+
+#EXTINF:-1 tvg-id="ulusaltv" tvg-name="Ulusal TV" tvg-logo="https://play-lh.googleusercontent.com/Mcpr5vzKSu2HEtfCSXV2zSSENbm8GbRVfanxlA-KWw7wr2oxeQLzUTAjDslIMN6pvXw" group-title="Haber Kanalları",ULUSAL
+https://proxy.canlitvplayer.com/canlitvulusal.xyz/live/ulusalkanal/index.m3u8
+
+#EXTINF:-1 tvg-id="Tele1" tvg-name="Tele1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlNU9OIlDWyfoXdiz6znl3NjbTmZl-rQ2LFF_iyGOMwmF9i_zo2-tCFb1EvSS4gcRBXfa2csWouibI6rxiDYUZdt-jMYQYut5OXe1bFg" group-title="Haber Kanalları",Tele1
+https://x.canlitvapp.com/tele1/tracks-v1a1/mono.m3u8?token=904e9d5ff3983ba8b333f41457ce2b46bd7fd6f3-9b9183ad73ee0778ea9d921d125e8816-1734036480-1734025680
+
+#EXTINF:-1 tvg-id="tvnet" tvg-name="TVNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tvnet_logo_%282022%29.svg/250px-Tvnet_logo_%282022%29.svg.png" group-title="Haber Kanalları",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="24tv" tvg-name="24 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="Haber Kanalları",24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+
+#EXTINF:-1 tvg-id="akittv" tvg-name="Akit TV" tvg-logo="https://www.evrensel.net/images/840/upload/dosya/110613.jpg" group-title="Haber Kanalları",Akit TV
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+
+#EXTINF:-1 tvg-id="ulketv" tvg-name="Ülke TV" tvg-logo="https://cdn.kanal7.com/ulketv/wp-content/uploads/2015/12/29112014172109.jpg" group-title="Haber Kanalları",Ülke TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DHA FEED" tvg-name="DHA FEED" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQGL609mKcS3Wg/company-logo_200_200/company-logo_200_200/0/1631399081928/demirorenhaberajansi_logo?e=2147483647&v=beta&t=svfkMUqZ3t6ecvf6l1iiDNRGH43yUzpn8E0sxzRxL_k" group-title="Haber Kanalları",DHA FEED 1
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w489522622.m3u8
+
+#EXTINF:-1 tvg-id="DHA FEED" tvg-name="DHA FEED" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQGL609mKcS3Wg/company-logo_200_200/company-logo_200_200/0/1631399081928/demirorenhaberajansi_logo?e=2147483647&v=beta&t=svfkMUqZ3t6ecvf6l1iiDNRGH43yUzpn8E0sxzRxL_k" group-title="Haber Kanalları",DHA FEED 2
+https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w307688626.m3u8
+
+#EXTINF:-1 tvg-id="Meclis TV" tvg-name="Meclis TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Kb62tugVDpND3Nn3g43ISpnaHNu6SfpHGRAFgjLVjrsELhtXCtsn-cwLB5Ef94FLmycMBXfUcCFH_wkWGKG0F25mYbKXd3_xzHyZEg" group-title="Haber Kanalları",Meclis TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+
+#EXTINF:-1 tvg-id="bloombergtv" tvg-name="Bloomberg TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bloomberg_HT_logo.svg/2560px-Bloomberg_HT_logo.svg.png" group-title="Haber Kanalları",Bloomberg TV
+https://tv.ensonhaber.com/bloomberght/bloomberght_720p.m3u8
+
+
+#EXTINF:-1 tvg-id="apara" tvg-name="A Para" tvg-logo="https://yt3.googleusercontent.com/k8PM5lr0Vnw6-RCA0vkKgifuBiP0oyeRASufQFenTdPHNl_ILw-TXDp8MabTpc14HdhFvd5j_w=s900-c-k-c0x00ffffff-no-rj" group-title="Haber Kanalları",A Para
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=q2fKW-xvojCliaEebZQBYQ&e=1734053624
+
+
+
+
+# Ulusal Kanallar
+
+#EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/1200px-TRT_1_logo_%282021-%29.svg.png" group-title="Ulusal Kanallar",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="showtv" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/1200px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/582px-Atv_logo_2010.svg.png" group-title="Ulusal Kanallar",ATV
+https://x.canlitvapp.com/aytv/tracks-v1a1/mono.m3u8?token=44dec520e35614af4260409bf6e6e3f2fa9d0f29-e0b794af86b26e9b55bb0ca052246235-1734036602-1734025802
+
+#EXTINF:-1 tvg-id="kanald" tvg-name="Kanal D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ4WvEQvzs2DrdaVkI_zJwzsal9FtOKK_Qjw&s" group-title="Ulusal Kanallar",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+
+#EXTINF:-1 tvg-id="star" tvg-name="Star TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png" group-title="Ulusal Kanallar",Star TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+
+#EXTINF:-1 tvg-id="now" tvg-name="NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/250px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Ulusal Kanallar",NOW
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
+
+#EXTINF:-1 tvg-id="tv8" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal Kanallar",TV8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+#EXTINF:-1 tvg-id="kanal7" tvg-name="Kanal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Kanal_7_2002-%3F_logosu.webp" group-title="Ulusal Kanallar",Kanal 7
+https://x.canlitvapp.com/kanal7/tracks-v1a1/mono.m3u8?token=ccc96af5cb963627bcf1b3de0fd155d5fb46728d-f11d50d04f20933a5a8e2fe1a8743762-1734038789-1734027989
+
+
+#EXTINF:-1 tvg-id="360" tvg-name="360" tvg-logo="https://www.turkmedya.com.tr/assets/img/logo/logo_360tv.png" group-title="Ulusal Kanallar",360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+#EXTINF:-1 tvg-id="beyaztv" tvg-name="Beyaz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg" group-title="Ulusal Kanallar",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="teve2" tvg-name="Teve2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhMurHsKV0SPXL5yO7KULxdKrj72zU6hLjRQ&s" group-title="Ulusal Kanallar",Teve2
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+
+#EXTINF:-1 tvg-id="a2" tvg-name="A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="Ulusal Kanallar",A2
+https://x.canlitvapp.com/a2/tracks-v1a1/mono.m3u8?token=43f4ca3eeffd492ae39f14938197f8e7bb9352ee-f12d19abc8ac2ed5c35b8414ad523bdb-1734037292-1734026492
+
+#EXTINF:-1 tvg-id="tv4" tvg-name="TV4" tvg-logo="https://www.turkmedya.com.tr/assets/img/logo/logo_tv4.png?V=12" group-title="Ulusal Kanallar",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png" group-title="Ulusal Kanallar",TLC
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+
+
+
+# Müzik kanalları
+
+
+#EXTINF:-1 tvg-id="trtmuzik" tvg-name="TRT Müzik" tvg-logo="https://yt3.googleusercontent.com/hXzCF4nqHOq0MpfYdWsEYTBcNQSAwSWZQ5dYOlkMN9EZP9Mv8_LrCFdM-Ol28IjEd-JCupTu=s900-c-k-c0x00ffffff-no-rj" group-title="Müzik Kanalları",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="powertv" tvg-name="Power TV" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png?v=1" group-title="Müzik Kanalları",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+
+#EXTINF:-1 tvg-id="powerturk" tvg-name="Power Türk" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_35.png?v=1" group-title="Müzik Kanalları",Power Türk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
+
+#EXTINF:-1 tvg-id="powerdance" tvg-name="Power Dance" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2556.png?v=6" group-title="Müzik Kanalları",Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="powerlove" tvg-name="Power Love" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2559.png?v=4" group-title="Müzik Kanalları",Power Love
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="powerturkakustik" tvg-name="Power Türk Akustik" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2542.png?v=4" group-title="Müzik Kanalları",Power Türk Akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="powerturkslow" tvg-name="Power Türk Slow" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2577.png?v=4" group-title="Müzik Kanalları",Power Türk Slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="powerturktaptaze" tvg-name="Power Türk Taptaze" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2534.png?v=4" group-title="Müzik Kanalları",Power Türk Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+
+
+# ist. Trafik kamereları
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Bağdat caddesi
+https://601a55c88ec6d.streamlock.net/hls/215.stream/chunklist.m3u8?hash=aaf67db9c1853124478c6b6a3e8793dd
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Kadıköy uzunçayır
+https://hls.ibb.gov.tr/tkm1/hls/167.stream/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Tem orhanlı
+https://hls.ibb.gov.tr/tkm2/hls/378.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Karaköy
+https://hls.ibb.gov.tr/tkm1/hls/204.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Sultanbeyli Mecidiye Kavşağı
+https://hls.ibb.gov.tr/tkm2/hls/820.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Beşiktaş meydanı
+https://hls.ibb.gov.tr/tkm4/hls/43.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",D100 Haliç
+https://hls.ibb.gov.tr/tkm4/hls/109.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Şişli
+https://hls.ibb.gov.tr/tkm4/hls/540.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Kağıthane
+https://hls.ibb.gov.tr/tkm4/hls/967.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Taksim
+https://601a55c88ec6d.streamlock.net/hls/297.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Yavuz Sultan selim Köpr.
+https://hls.ibb.gov.tr/tkm2/hls/670.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Fatih Sultan Mehmet Köpr.
+https://hls.ibb.gov.tr/tkm1/hls/341.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",15 Temmuz şehitler köprüsü
+https://hls.ibb.gov.tr/tkm4/hls/79.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Topkapı
+https://hls.ibb.gov.tr/tkm1/hls/164.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",D100 incirli
+https://hls.ibb.gov.tr/tkm4/hls/117.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Şirinevler
+https://hls.ibb.gov.tr/tkm1/hls/161.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Yenibosna-çobançeşme
+https://hls.ibb.gov.tr/tkm4/hls/94.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",D100 Florya
+https://hls.ibb.gov.tr/tkm4/hls/99.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Avcılar metrobüs
+https://hls.ibb.gov.tr/tkm4/hls/72.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Haramidere
+https://hls.ibb.gov.tr/tkm4/hls/112.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caburntelecom.com/wp-content/uploads/2024/08/AdobeStock_845564789-scaled.jpeg" group-title="ist. Trafik kameraları",Beylikdüzü
+https://hls.ibb.gov.tr/tkm1/hls/168.stream/chunklist.m3u8
+
