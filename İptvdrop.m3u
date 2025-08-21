@@ -1,0 +1,95 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="ULUSAL",TRT 1
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+
+#EXTINF:-1 group-title="ULUSAL",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 group-title="ULUSAL",ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+
+#EXTINF:-1 group-title="ULUSAL",KANAL D
+http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
+
+#EXTINF:-1 group-title="ULUSAL",STAR TV1
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+
+#EXTINF:-1 group-title="ULUSAL",SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv_480p.m3u8
+
+#EXTINF:-1 group-title="ULUSAL",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_480p.m3u8
+
+#EXTINF:-1 group-title="ULUSAL",KANAL 7
+http://89.187.191.41/Kanal-7-HD-TR/video.m3u8
+
+#EXTINF:-1 group-title="ULUSAL",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8_480p.m3u8
+
+#EXTINF:-1 group-title="ULUSAL",NOW
+http://116.202.238.88/FOXTV_TR/index.m3u8
+
+#EXTINF:-1 group-title="ULUSAL",Teve 2 HD
+https://demiroren-live.daioncdn.net/teve2/teve2_480p.m3u8
+
+#EXTINF:-1 group-title="ULUSAL",a2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_480p.m3u8
+
+
+#EXTINF:-1 group-title="HABER",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv_480p.m3u8
+
+#EXTINF:-1 group-title="HABER",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 group-title="HABER",A Haber
+https://izle.canlitvapp.com/ahaber/index.m3u8
+
+#EXTINF:-1 group-title="HABER",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv_480p.m3u8
+
+#EXTINF:-1 group-title="HABER",TV100
+https://tv100-live.daioncdn.net/tv100/tv100_480p.m3u8
+
+#EXTINF:-1 group-title="HABER",Sözcü TV
+https://izle.canlitvapp.com/sozcu/index.m3u8
+
+#EXTINF:-1 group-title="HABER",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_480p.m3u8
+
+#EXTINF:-1 group-title="HABER",TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
+
+#EXTINF:-1 group-title="HABER",CNN Türk
+https://izle.canlitvapp.com/cnn/index.m3u8
+
+#EXTINF:-1 group-title="HABER",NTV
+https://dogus-live.daioncdn.net/ntv/ntv_480p.m3u8
+
+#EXTINF:-1 group-title="HABER",Habertürk
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_480p.m3u8
+
+#EXTINF:-1 group-title="HABER",TELE 1
+https://izle.canlitvapp.com/tele1/index.m3u8
+
+
+#EXTINF:-1 group-title="Belgesel",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_480p.m3u8
+
+#EXTINF:-1 group-title="Belgesel",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_480p.m3u8
+
+#EXTINF:-1 group-title="Belgesel",NATIONAL GEO HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+
+#EXTINF:-1 group-title="Belgesel",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 group-title="Belgesel",Cine 1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+
+#EXTINF:-1 group-title="Belgesel",TGRT Belgesel 
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
