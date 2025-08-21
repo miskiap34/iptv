@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="061332c2-d69c-4605-a760-0e2a8274697c" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 tvg-name="Atv" tvg-id="02abd163-5c0a-444a-a035-cb6f45b4700a" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Atv
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+#EXTINF:-1 tvg-name="Kanal D" tvg-id="9433a6db-a601-49e8-a298-ce13b553e44b" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald_480p.m3u8
+#EXTINF:-1 tvg-name="Star TV" tvg-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Star TV
+https://dogus-live.daioncdn.net/startv/startv_480p.m3u8
+#EXTINF:-1 tvg-name="Show TV" tvg-id="82bb74f3-0906-4efc-b66d-cefa72e659e6" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv_480p.m3u8
+#EXTINF:-1 tvg-name="Now Tv" tvg-id="3639c98f-f795-40cb-a4b3-8feb4de05d33" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Now Tv
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
+#EXTINF:-1 tvg-name="Kanal 7" tvg-id="aaf2f509-e9d3-49e9-9880-bd3da5daec8c" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f218c717-723e-49e3-a3f0-428979d2fa3e.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_480p.m3u8
+#EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="aa8ffd34-cd16-4776-81ef-1145a5d82122" tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_480p.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="581accda-4d5f-4c3d-b5f1-1579b85a1e4b" tvg-logo="https://img.tv8.com.tr/s/template/v2/img/tv8-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TV8
+https://tv8-live.daioncdn.net/tv8/tv8_480p.m3u8
+#EXTINF:-1 tvg-name="TBMM TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-name="A2TV" tvg-id="22720725-3a82-4419-bf1d-e724176a4fb3" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",A2TV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_480p.m3u8
+#EXTINF:-1 tvg-name="Teve 2" tvg-id="c07b221f-26d8-44d2-a64a-2fac362ae90e" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Teve 2
+https://demiroren-live.daioncdn.net/teve2/teve2_480p.m3u8
+#EXTINF:-1 tvg-name="360 TV" tvg-id="f90b270d-c791-4029-81d9-994c81721fe7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrrxVq3WjPwWYWLTk_LM4D3oSvPoaPci3sUA&s" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-name="GZT TV" tvg-id="1e73d8cb-c8a1-428e-98c0-314d59b18794" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/694px-GZT_logo.svg.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",GZT TV
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="a347cfc6-1fa4-4a6d-9500-3742ce51fedf" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 tvg-name="TRT Türk" tvg-id="30ce3b1c-a7cf-4049-8260-c06710fd05a5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 tvg-name="TV 4" tvg-id="cd3f6e33-52ca-4696-8285-7007f850e7c7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-name="GENÇ TV 720p" tvg-id="cf6df5dc-12cc-43d9-999f-9f800589beb0" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bd1c765c-df9f-4d23-8af2-ef84796fbe64.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",GENÇ TV 720p
+https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
