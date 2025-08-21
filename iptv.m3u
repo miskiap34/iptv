@@ -1,68 +1,45 @@
 #EXTM3U
-
-
-#EXTINF:-1 group-title="ULUSAL",TRT 1
-http://89.187.191.41/TRT-1-HD-TR/video.m3u8
-#EXTINF:-1 group-title="ULUSAL",TRT Türk
-https://tv-trtturk.medya.trt.com.tr/master_480.m3u8
-#EXTINF:-1 group-title="ULUSAL",ATV
-http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:-1 group-title="ULUSAL",KANAL D
-http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
-#EXTINF:-1 group-title="ULUSAL",STAR TV
+#EXTINF:-1 tvg-name="TRT 1 720p" tvg-id="061332c2-d69c-4605-a760-0e2a8274697c" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 1 720p
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="Atv 720p" tvg-id="02abd163-5c0a-444a-a035-cb6f45b4700a" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Atv 720p
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+#EXTINF:-1 tvg-name="Kanal D 720p" tvg-id="9433a6db-a601-49e8-a298-ce13b553e44b" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Kanal D 720p
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+#EXTINF:-1 tvg-name="Star TV 720p" tvg-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Star TV 720p
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:-1 group-title="ULUSAL",SHOW TV
+#EXTINF:-1 tvg-name="Show TV 720p" tvg-id="82bb74f3-0906-4efc-b66d-cefa72e659e6" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Show TV 720p
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
-#EXTINF:-1 roup-title="ULUSAL",BEYAZ TV
+#EXTINF:-1 tvg-name="Now Tv 720p" tvg-id="3639c98f-f795-40cb-a4b3-8feb4de05d33" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Now Tv 720p
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-name="Kanal 7 720p" tvg-id="aaf2f509-e9d3-49e9-9880-bd3da5daec8c" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f218c717-723e-49e3-a3f0-428979d2fa3e.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Kanal 7 720p
+https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
+#EXTINF:-1 tvg-name="BEYAZ TV 720p" tvg-id="aa8ffd34-cd16-4776-81ef-1145a5d82122" tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",BEYAZ TV 720p
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
-#EXTINF:-1 group-title="ULUSAL",KANAL 7
-http://89.187.191.41/Kanal-7-HD-TR/video.m3u8
-#EXTINF:-1 group-title="ULUSAL",TV 8
-http://89.187.191.41/TV8-HD-TR/video.m3u8
-#EXTINF:-1 group-title="ULUSAL",NOW
-http://116.202.238.88/FOXTV_TR/index.m3u8
-#EXTINF:-1 group-title="ULUSAL",Teve 2 HD
-https://demiroren-live.daioncdn.net/teve2/teve2_480p.m3u8
-#EXTINF:-1 group-title="ULUSAL",a2
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_480p.m3u8
-
-#EXTINF:-1 group-title="Belgesel",TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1 group-title="Belgesel",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/666cbc1feac437aea3fc2c8218b9539e.jpg" group-title="RecTV",NATIONAL GEO HD
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 group-title="Belgesel",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
-#EXTINF:-1 group-title="Belgesel",Cine 1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1 group-title="Belgesel",TGRT Belgesel 
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Undefined",TBMM TV (720p)
-https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
-#EXTINF:-1 group-title="HABER",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master_480.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="HABER",A Haber
-https://izle.canlitvapp.com/ahaber/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="HABER",Halk TV
-https://halktv-live.daioncdn.net/halktv/halktv_480p.m3u8
-#EXTINF:-1 group-title="HABER",TV100
-https://tv100-live.daioncdn.net/tv100/tv100_480p.m3u8
-#EXTINF:-1 group-title="HABER",Sözcü TV
-https://izle.canlitvapp.com/sozcu/index.m3u8
-#EXTINF:-1 group-title="HABER",360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360_480p.m3u8
-#EXTINF:-1 group-title="HABER",TGRT Haber
-https://canli.tgrthaber.com/tgrt.m3u8
-
-#EXTINF:-1 group-title="HABER",CNN Türk
-https://izle.canlitvapp.com/cnn/index.m3u8
-#EXTINF:-1 group-title="HABER",NTV
-https://dogus-live.daioncdn.net/ntv/ntv_480p.m3u8
-#EXTINF:-1 group-title="HABER",Habertürk
-https://ciner-live.daioncdn.net/haberturktv/haberturktv_480p.m3u8
-#EXTINF:-1 group-title="HABER",TELE 1
-https://izle.canlitvapp.com/tele1/index.m3u8
+#EXTINF:-1 tvg-name="TV8 720p" tvg-id="581accda-4d5f-4c3d-b5f1-1579b85a1e4b" tvg-logo="https://img.tv8.com.tr/s/template/v2/img/tv8-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TV8 720p
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+#EXTINF:-1 tvg-name="TBMM TV 720p" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TBMM TV 720p
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-name="A2TV 720p" tvg-id="22720725-3a82-4419-bf1d-e724176a4fb3" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",A2TV 720p
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
+#EXTINF:-1 tvg-name="Teve 2 720p" tvg-id="c07b221f-26d8-44d2-a64a-2fac362ae90e" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Teve 2 720p
+https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
+#EXTINF:-1 tvg-name="360 TV 1080p" tvg-id="f90b270d-c791-4029-81d9-994c81721fe7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrrxVq3WjPwWYWLTk_LM4D3oSvPoaPci3sUA&s" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",360 TV 1080p
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-name="GZT TV 1080p" tvg-id="1e73d8cb-c8a1-428e-98c0-314d59b18794" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/694px-GZT_logo.svg.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",GZT TV 1080p
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT 2 720p" tvg-id="a347cfc6-1fa4-4a6d-9500-3742ce51fedf" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 2 720p
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Türk 720p" tvg-id="30ce3b1c-a7cf-4049-8260-c06710fd05a5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT Türk 720p
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TV 4 1080p" tvg-id="cd3f6e33-52ca-4696-8285-7007f850e7c7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TV 4 1080p
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-name="ULUSAL KANAL 1080p" tvg-id="86ae1b57-a0a8-448b-a476-211f82718da8" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5f895c30-fa0a-4f74-b4b6-ee562fb27e26.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",ULUSAL KANAL 1080p
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
+#EXTINF:-1 tvg-name="GENÇ TV 720p" tvg-id="cf6df5dc-12cc-43d9-999f-9f800589beb0" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bd1c765c-df9f-4d23-8af2-ef84796fbe64.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",GENÇ TV 720p
+https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="TMB TV 1080p" tvg-id="0abeb25c-3197-40f6-b809-e4d03710613b" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/3d8f616d-a421-4fcd-a13a-1a29e3bbd88c.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TMB TV 1080p
+https://ottcdn.kablowebtv.net/live_turksat_sub3/tmb_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDI1IDg6MTQ6MDcgQU0maGFzaF92YWx1ZT14ZkpFclJUN0xYWFZtcWR6T1lsd1Z3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+#EXTINF:-1 tvg-name="DHA 720p [Not 24/7]" tvg-id="DHA.tr" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="🇹🇷💒🏠🏯 TR YEREL KANALLAR 🇹🇷💒🏠🏯",DHA 720p [Not 24/7]
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal V 720p" tvg-id="KanalV.tr" tvg-logo="https://i.imgur.com/7RNjTno.png" group-title="🇹🇷💒🏠🏯 TR YEREL KANALLAR 🇹🇷💒🏠🏯",Kanal V 720p
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
