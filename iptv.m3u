@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Kızılcık Şerbeti - Son Bolum" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="V|TR: Cuma Dizileri",V|TR: Kızılcık Şerbeti - Son Bolum (12.09.2025)
+http://mstrxtv55.xyz:8080/movie/c7B8fgeKJt982/ezeSyCtJSxFX3/43849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sahipsizler - Son Bolum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="V|TR: Çarşamba Dizileri",V|TR: Sahipsizler - Son Bolum (18.06.2025)
+http://mstrxtv55.xyz:8080/movie/c7B8fgeKJt982/ezeSyCtJSxFX3/101352.mkv
+
+
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="061332c2-d69c-4605-a760-0e2a8274697c" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="Atv" tvg-id="02abd163-5c0a-444a-a035-cb6f45b4700a" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Atv
