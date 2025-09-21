@@ -8,11 +8,11 @@ http://mstrxtv55.xyz:8080/movie/c7B8fgeKJt982/ezeSyCtJSxFX3/101352.mkv
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="061332c2-d69c-4605-a760-0e2a8274697c" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="Atv" tvg-id="02abd163-5c0a-444a-a035-cb6f45b4700a" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Atv
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-name="Kanal D" tvg-id="9433a6db-a601-49e8-a298-ce13b553e44b" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
 #EXTINF:-1 tvg-name="Star TV" tvg-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Star TV
-https://dogus-live.daioncdn.net/startv/startv_1080p.m3u8
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-name="Show TV" tvg-id="82bb74f3-0906-4efc-b66d-cefa72e659e6" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-name="Now Tv" tvg-id="3639c98f-f795-40cb-a4b3-8feb4de05d33" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Now Tv
