@@ -50,16 +50,16 @@ https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 https://izle.canlitvapp.com/ahaber/index.m3u8
 
 #EXTINF:-1 group-title="HABER",Halk TV
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+https://halktv-live.daioncdn.net/halktv/halktv_7200p.m3u8
 
 #EXTINF:-1 group-title="HABER",TV100
-https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+https://tv100-live.daioncdn.net/tv100/tv100_7200p.m3u8
 
 #EXTINF:-1 group-title="HABER",Sözcü TV
 https://izle.canlitvapp.com/sozcu/index.m3u8
 
 #EXTINF:-1 group-title="HABER",360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 group-title="HABER",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
@@ -68,20 +68,20 @@ https://canli.tgrthaber.com/tgrt.m3u8
 https://izle.canlitvapp.com/cnn/index.m3u8
 
 #EXTINF:-1 group-title="HABER",NTV
-https://dogus-live.daioncdn.net/ntv/ntv_1080p.m3u8
+https://dogus-live.daioncdn.net/ntv/ntv_7200p.m3u8
 
 #EXTINF:-1 group-title="HABER",Habertürk
-https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_7200p.m3u8
 
 #EXTINF:-1 group-title="HABER",TELE 1
 https://izle.canlitvapp.com/tele1/index.m3u8
 
 
 #EXTINF:-1 group-title="Belgesel",TLC
-https://dogus-live.daioncdn.net/tlc/tlc_1080p.m3u8
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 
 #EXTINF:-1 group-title="Belgesel",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_1080p.m3u8
+https://dogus-live.daioncdn.net/dmax/dmax_7200p.m3u8
 
 #EXTINF:-1 group-title="Belgesel",NATIONAL GEO HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -89,7 +89,7 @@ https://dogus-live.daioncdn.net/dmax/dmax_1080p.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 
 #EXTINF:-1 group-title="Belgesel",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 group-title="Belgesel",Cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
