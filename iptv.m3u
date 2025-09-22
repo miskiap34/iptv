@@ -49,19 +49,28 @@ https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
 
 
 
-#EXTINF:-1 group-title="HABER",TRT Haber
+#EXTINF:-1 group-title="HABER",TRT HABER
 https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
 
-#EXTINF:-1 group-title="HABER",A Haber
+#EXTINF:-1 group-title="HABER",A HABER
 https://izle.canlitvapp.com/ahaber/index.m3u8
 
-#EXTINF:-1 group-title="HABER",Halk TV
+#EXTINF:-1 group-title="HABER",CNN TÜRK
+https://izle.canlitvapp.com/cnn/index.m3u8
+
+#EXTINF:-1 group-title="HABER",NTV
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+
+#EXTINF:-1 group-title="HABER",HABERTÜRK
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8
+
+#EXTINF:-1 group-title="HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 
 #EXTINF:-1 group-title="HABER",TV100
 https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
 
-#EXTINF:-1 group-title="HABER",Sözcü TV
+#EXTINF:-1 group-title="HABER",SÖZCÜ TV
 https://izle.canlitvapp.com/sozcu/index.m3u8
 
 #EXTINF:-1 group-title="HABER",360 TV
@@ -69,15 +78,6 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 group-title="HABER",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
-
-#EXTINF:-1 group-title="HABER",CNN Türk
-https://izle.canlitvapp.com/cnn/index.m3u8
-
-#EXTINF:-1 group-title="HABER",NTV
-https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-
-#EXTINF:-1 group-title="HABER",Habertürk
-https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8
 
 #EXTINF:-1 group-title="HABER",TELE 1
 https://izle.canlitvapp.com/tele1/index.m3u8
@@ -87,14 +87,11 @@ https://izle.canlitvapp.com/tele1/index.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-name="TV 4" tvg-id="cd3f6e33-52ca-4696-8285-7007f850e7c7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-name="TBMM TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
-
-
 
 
 #EXTINF:-1 group-title="Belgesel",TLC
