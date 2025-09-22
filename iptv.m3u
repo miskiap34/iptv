@@ -97,3 +97,99 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
 
 #EXTINF:-1 group-title="Belgesel",Cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Turk 1 HD" group-title="TR - 7/24 YERLI SINEMA",(TR) Sinema Turk 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/164248
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Turk 2 HD" group-title="TR - 7/24 YERLI SINEMA",(TR) Sinema Turk 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174557
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Turk 3 HD" group-title="TR - 7/24 YERLI SINEMA",(TR) Sinema Turk 3 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174558
+#EXTINF:-1 tvg-id="" tvg-name="TR) Sinema Turk 4 HD" group-title="TR - 7/24 YERLI SINEMA",TR) Sinema Turk 4 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2912
+#EXTINF:-1 tvg-id="" tvg-name="TR) Sinema Turk 5 HD" group-title="TR - 7/24 YERLI SINEMA",TR) Sinema Turk 5 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2869
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Turk 6 HD" group-title="TR - 7/24 YERLI SINEMA",(TR) Sinema Turk 6 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/97694
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Turk 7 HD" group-title="TR - 7/24 YERLI SINEMA",(TR) Sinema Turk 7 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101047
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yerli Komedi 1" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yerli Komedi 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151106
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yerli Komedi 2" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yerli Komedi 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101048
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yerli Komedi 3" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yerli Komedi 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151645
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yerli Korku" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yerli Korku
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/97726
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Konuşanlar 1" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Konuşanlar 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101016
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Konuşanlar 2" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Konuşanlar 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151668
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Recep İVEDIK" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Recep İVEDIK
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/61192
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Ata DEMIRER" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Ata DEMIRER
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/105459
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Cem YILMAZ" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Cem YILMAZ
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/61256
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Şafak Sezer 1" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Şafak Sezer 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/61110
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Şafak Sezer 2" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Şafak Sezer 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71211
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Gain Orginal" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Gain Orginal
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/136972
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Tabii Original 1" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Tabii Original 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151779
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Tabii Original 2" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Tabii Original 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151793
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Tabii Original 3" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Tabii Original 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/152032
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Blu TV HD" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Blu TV HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71209
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Hababam Sınıfı" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Hababam Sınıfı
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/53552
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 1" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/21070
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 2" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2984
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 3" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47680
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 4" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 4
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71214
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 5" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 5
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101020
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 6" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 6
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101019
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 7" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 7
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101018
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 1" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47665
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 2" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47662
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 3" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71206
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 4" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 4
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101032
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 5" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 5
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101011
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 6" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 6
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101010
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 7" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 7
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101029
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kadir İnanır 1" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kadir İnanır 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2864
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kadir İnanır 2" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kadir İnanır 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71207
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Baddal Gazi" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Baddal Gazi
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47664
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Cüneyt Arkin" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Cüneyt Arkin
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47683
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kartal Tibed" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kartal Tibed
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47671
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Tarik Akan" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Tarik Akan
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47706
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yilmaz Guney" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yilmaz Guney
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71213
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Ferdi Tayfur" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Ferdi Tayfur
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101013
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Orhan Gencebay" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Orhan Gencebay
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101012
