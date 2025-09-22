@@ -24,8 +24,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-name="TV8" tvg-id="581accda-4d5f-4c3d-b5f1-1579b85a1e4b" tvg-logo="https://img.tv8.com.tr/s/template/v2/img/tv8-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TV8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
-#EXTINF:-1 tvg-name="TBMM TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TBMM TV
-https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+
 #EXTINF:-1 tvg-name="A2TV" tvg-id="22720725-3a82-4419-bf1d-e724176a4fb3" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",A2TV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-name="Teve 2" tvg-id="c07b221f-26d8-44d2-a64a-2fac362ae90e" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Teve 2
@@ -42,8 +41,8 @@ https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-name="GENÇ TV 720p" tvg-id="cf6df5dc-12cc-43d9-999f-9f800589beb0" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bd1c765c-df9f-4d23-8af2-ef84796fbe64.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",GENÇ TV 720p
 https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
-https://meclistv-live.ercdn.net/meclistv/meclistv_1080p.m3u8
-
+#EXTINF:-1 tvg-name="TBMM TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 group-title="HABER",TRT Haber
 https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 
