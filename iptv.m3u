@@ -79,10 +79,6 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 group-title="HABER",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 
-#EXTINF:-1 tvg-name="GZT TV" tvg-id="1e73d8cb-c8a1-428e-98c0-314d59b18794" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/694px-GZT_logo.svg.png" group-title="HABER",GZT TV
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-name="TV 4" tvg-id="cd3f6e33-52ca-4696-8285-7007f850e7c7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png" group-title="🇹🇷 DİĞER 🇹🇷",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
