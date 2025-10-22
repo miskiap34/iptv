@@ -8,6 +8,9 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahipsizler.SON.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kral Kaybederse - Son Bolum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0kk5PUB850OlrVA1w7hgc41E9T.jpg" group-title="Diziler",V|TR: Kral Kaybederse - Son Bolum
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kral.Kaybederse.SON.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="Uzak Şehir - Son Bolum" tvg-logo="https://www.kanald.com.tr/uzak-sehir/haber/uzak-sehirin-toplu-afisi-yayinlandi?p=1" group-title="Diziler",Uzak Şehir - Son Bolum
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Uzak.Sehir.SON.mkv
+
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="061332c2-d69c-4605-a760-0e2a8274697c" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 
