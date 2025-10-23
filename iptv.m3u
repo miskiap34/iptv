@@ -62,7 +62,7 @@ http://162.212.179.33:80/gin-dvrfl05/gin-tv2tv/tracks-v1a1/rewind-8880.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/26/1/trt-haber-logo-png_seeklogo-260968.png" group-title="HABER",TRT HABER
 https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
 
-#EXTINF:-1 tvg-logo=https://static.wikia.nocookie.net/logopedia/images/5/5b/A-haber-tr.png/" group-title="HABER",A HABER
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/A-haber-tr.png" group-title="HABER",A HABER
 http://95.174.71.114/TR-A-HABER/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/CNN_Turk.svg/revision/latest?cb=20140625184934" group-title="HABER",CNN Turk
