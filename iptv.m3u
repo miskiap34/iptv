@@ -63,7 +63,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
 https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
 
 #EXTINF:-1 tvg-logo=https://static.wikia.nocookie.net/logopedia/images/5/5b/A-haber-tr.png/" group-title="HABER",A HABER
-https://izle.canlitvapp.com/ahaber/index.m3u8
+http://95.174.71.114/TR-A-HABER/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/CNN_Turk.svg/revision/latest?cb=20140625184934" group-title="HABER",CNN TÜRK
 https://izle.canlitvapp.com/cnn/index.m3u8
