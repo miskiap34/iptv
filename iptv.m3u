@@ -68,42 +68,40 @@ http://95.174.71.114/TR-A-HABER/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/CNN_Turk.svg/revision/latest?cb=20140625184934" group-title="HABER",CNN Turk
 http://95.174.71.114/TR-CNN-TURK/index.m3u8
 
-#EXTINF:-1 group-title="HABER",NTV
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="HABER",NTV
 http://95.174.71.114/TR-NTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://imgss.ct.ws/hbturkhd.png" group-title="HABER",HABERTÜRK
 https://anym3u8player.com/youtube.php/id/68f4ac0ccbbe2.m3u8
 
-#EXTINF:-1 group-title="HABER",HALK TV
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 
-#EXTINF:-1 group-title="HABER",TV100
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="HABER",TV100
 https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
 
-#EXTINF:-1 group-title="HABER",SÖZCÜ Tv
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/sozcu-tv-canli.png" group-title="HABER",SÖZCÜ Tv
 https://anym3u8player.com/youtube.php/id/68f4abe70dbe4.m3u8
 
-#EXTINF:-1 group-title="HABER",360 TV
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="HABER",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-
-#EXTINF:-1 group-title="HABER",TGRT Haber
-https://canli.tgrthaber.com/tgrt.m3u8
-
-#EXTINF:-1 tvg-name="TV 4" tvg-id="cd3f6e33-52ca-4696-8285-7007f850e7c7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png" group-title="🇹🇷 DİĞER 🇹🇷",TV 4
-https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-name="TBMM TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png" group-title="🇹🇷 DİĞER 🇹🇷",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
+#EXTINF:-1 tvg-name="TV 4" tvg-id="cd3f6e33-52ca-4696-8285-7007f850e7c7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png" group-title="🇹🇷 DİĞER 🇹🇷",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
-#EXTINF:-1 group-title="Belgesel",TLC
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/f9cd2889-605a-4f77-ab14-9425570a8bac.png" group-title="Belgesel",Cine 1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" group-title="Belgesel",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 
-#EXTINF:-1 group-title="Belgesel",DMAX
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Belgesel",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
-#EXTINF:-1 group-title="Belgesel",TRT BELGESEL
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
 
-#EXTINF:-1 group-title="Belgesel",Cine 1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
