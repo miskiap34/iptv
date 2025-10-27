@@ -22,7 +22,7 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-name="TRT 2" tvg-id="a347cfc6-1fa4-4a6d-9500-3742ce51fedf" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 2
-https://tv-trt2.medya.trt.com.tr/master_480.m3u8
+http://95.174.71.114/TR-TRT2/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT Turk" tvg-id="30ce3b1c-a7cf-4049-8260-c06710fd05a5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master_480.m3u8
