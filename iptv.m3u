@@ -35,10 +35,10 @@ https://tv-trtturk.medya.trt.com.tr/master_480.m3u8
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="9433a6db-a601-49e8-a298-ce13b553e44b" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",KANAL D
-http://95.174.71.114:80/TR-KANAL-D/index.m3u8
+http://95.174.71.114/TR-KANAL-D/index.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV" tvg-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",STAR TV
-http://95.174.71.114:80/TR-STAR/index.m3u8
+http://95.174.71.114/TR-STAR/index.m3u8
 
 
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="82bb74f3-0906-4efc-b66d-cefa72e659e6" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",SHOW TV
@@ -60,7 +60,7 @@ https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tr9yvr73465&app=7ddc255a-ef47-4
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
 
 #EXTINF:-1 tvg-name="Teve2" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Teve2
-http://162.212.179.33:80/gin-dvrfl05/gin-tv2tv/tracks-v1a1/rewind-8880.m3u8
+http://162.212.179.33/gin-dvrfl05/gin-tv2tv/tracks-v1a1/rewind-8880.m3u8
 
 
 
