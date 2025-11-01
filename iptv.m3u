@@ -41,7 +41,7 @@ http://95.174.71.114:80/TR-STAR/index.m3u8
 http://95.174.71.114/TR-SHOW/index.m3u8
 
 #EXTINF:-1 tvg-name="NOW" tvg-id="3639c98f-f795-40cb-a4b3-8feb4de05d33" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",NOW
-http://116.202.238.88/FOXTV_TR/index.m3u8
+http://95.174.71.114/TR-FOX/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 7" tvg-id="aaf2f509-e9d3-49e9-9880-bd3da5daec8c" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f218c717-723e-49e3-a3f0-428979d2fa3e.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
