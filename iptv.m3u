@@ -40,7 +40,6 @@ http://95.174.71.114/TR-KANAL-D/index.m3u8
 #EXTINF:-1 tvg-name="STAR TV" tvg-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",STAR TV
 http://95.174.71.114/TR-STAR/index.m3u8
 
-
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="82bb74f3-0906-4efc-b66d-cefa72e659e6" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",SHOW TV
 http://95.174.71.114/TR-SHOW/index.m3u8
 
