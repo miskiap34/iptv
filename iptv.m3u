@@ -69,7 +69,7 @@ https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
 http://95.174.71.114/TR-A-HABER/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-gzt-tv.png" group-title="HABER",GZT TV
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist_480.m3u8
+https://mn-nl.mncdn.com/gzttv/gzttv/master_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/CNN_Turk.svg/revision/latest?cb=20140625184934" group-title="HABER",CNN Turk
 http://95.174.71.114/TR-CNN-TURK/index.m3u8
