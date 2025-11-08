@@ -37,7 +37,6 @@ http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="9433a6db-a601-49e8-a298-ce13b553e44b" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",KANAL D
 http://95.174.71.114/TR-KANAL-D/index.m3u8
 
-
 #EXTINF:-1 tvg-name="STAR TV" tvg-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",STAR TV
 http://95.174.71.114/TR-STAR/index.m3u8
 
@@ -112,3 +111,10 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/8b/Arzu_film_logo.jpg/640px-Arzu_film_logo.jpg" group-title="Youtube",Arzu Film
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/arzu-film.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5Nql6dDFGWiR5SMdoxHFer0hNhJmnTgFHaQBqJzUUw&s=10" group-title="Youtube",Film Atölyesi
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/film-atolyesi.m3u8
+
