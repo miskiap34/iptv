@@ -113,10 +113,7 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
 https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/8b/Arzu_film_logo.jpg/640px-Arzu_film_logo.jpg" group-title="Youtube",Arzu Film
-https://anym3u8player.com/youtube.php/id/690f3511e2e0e.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/8b/Arzu_film_logo.jpg/640px-Arzu_film_logo.jpg" group-title="Youtube",Arzu Film UM
-https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/arzu-film.m3u8
+https://uzunmuhalefet.zya.me/general.php?url=https://www.youtube.com/live/Pq7ndgZHjjE?si=lgapYr-FC11pGUi-&.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5Nql6dDFGWiR5SMdoxHFer0hNhJmnTgFHaQBqJzUUw&s=10" group-title="Youtube",Film Atölyesi
 https://anym3u8player.com/youtube.php/id/690f3570c066c.m3u8
