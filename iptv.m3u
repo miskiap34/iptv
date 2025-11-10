@@ -113,7 +113,7 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
 https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/8b/Arzu_film_logo.jpg/640px-Arzu_film_logo.jpg" group-title="Youtube",Arzu Film
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762627799/ei/dzwPaaHJIO7R6dsP7ruH-Ac/ip/185.27.134.5/id/Pq7ndgZHjjE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QophIU0qDm_J9vM3stE8B5KS0YLZYI7ZbOZHKi6MLdVj1C6Q3H1P5ty10EyYqg7Os6einrLjyW/spc/6b0G_McY2cKSpduyFvqK4kpIm3QT2ztryUwmBCsd7nct6YNzFD2WBjRwkNi2CJXbJYlx-UBhbPE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANiLplaKLVSm_hRh8MIZbs-_-c9ICbp5cdzYE08roFnYAiEAmjzEfmat8Y8Lmt-cIwmcqUgxFOoXfi7_0f8H_NvUtds%3D/file/index.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/arzu-film.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5Nql6dDFGWiR5SMdoxHFer0hNhJmnTgFHaQBqJzUUw&s=10" group-title="Youtube",Film Atölyesi
 https://anym3u8player.com/youtube.php/id/690f3570c066c.m3u8
