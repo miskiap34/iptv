@@ -19,8 +19,7 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tasacak.Bu.Deniz.SON.mkv
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Güller ve Günahlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/68c83316f35cf5ba33dfcb33.jpg" group-title="Diziler",Güller ve Günahlar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://stream-extractor.koprulu2.workers.dev/?url=https://www.kanald.com.tr/guller-ve-gunahlar/bolumler/guller-ve-gunahlar-son-bolum&ext=m3u8
+https://thebest.umittv.workers.dev/?url=https://www.kanald.com.tr/guller-ve-gunahlar/bolumler/guller-ve-gunahlar-son-bolum&.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="061332c2-d69c-4605-a760-0e2a8274697c" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
