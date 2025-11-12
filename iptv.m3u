@@ -127,6 +127,30 @@ http://104.238.23.182/yt1/s/kemalsunal2.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/12/23/24/kemal-sunal-filmografisi-logo-organization-human-behavior-png-favpng-YzrdyJR2yiYu67uYuknFDwkWH.jpg" group-title="Youtube",Kemal Sunal 4
 http://104.238.23.182/yt1/s/kemalsunal3.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSel-THlwh8i4M0Dl7Y-avHq-GpLtE4PJqiwA&usqp=CAU" group-title="Sinema",Bein Box Office 1
+http://65.108.239.207:80/box1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwbtIfNUDtUUcp-os0Frc4x5OHTaf6mEQ6Q2mQesmR7ledsvryhLrSF2M&s" group-title="Sinema",Bein Box Office 2
+http://65.108.239.207:80/box2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTHKLSWvTySrDpf2Uzxz0R3OxXxt9a0WaSkwTbzheJtN_WUxjm4jBk8A&s" group-title="Sinema",Bein Box Office 3
+http://65.108.239.207:80/box3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUbaESqmBnh6MYbOs49WZGFmCw5MaKliyzASUG6X-j8g&s=10" group-title="Sinema",Bein Movies Action
+http://65.108.239.207:80/bsaction1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtsm7ErcNkI7LafTfmcHzyCXtPYtjbBoqlOOBTGkURMw&s=10" group-title="Sinema",Bein Movies Family
+http://65.108.239.207:80/bsfamily/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Sinema",Bein Movies Premiere 1
+http://65.108.239.207:80/bspremier1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Sinema",Bein Movies Stars
+http://65.108.239.207:80/bsstars/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWabSSsJMeRp3Hlrf4SqDFWqqBdbZiFM8pAfXZMyDK8Q&s=10" group-title="Sinema",Bein Movies Türk 
+http://65.108.239.207:80/bsturk/index.m3u8
+
 
 
 
