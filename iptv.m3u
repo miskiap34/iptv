@@ -100,9 +100,6 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/f9cd2889-605a-4f77-ab14-9425570a8bac.png" group-title="Belgesel",Cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/f9cd2889-605a-4f77-ab14-9425570a8bac.png" group-title="Belgesel",Cine 1 yedek
-https://tv.cdn-vizi.workers.dev/?ID=86
-
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" group-title="Belgesel",TLC
 https://stream-extractor.koprulu2.workers.dev/?url=https://www.tlctv.com.tr/canli-izle&ext=m3u8
 
