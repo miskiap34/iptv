@@ -168,10 +168,10 @@ http://65.108.239.207:80/sinema1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002-300x217.png" group-title="Sinema",Sinema 1002
 http://65.108.239.207:80/sinema1002/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=173" group-title="Sinema",Sinema Aksiyon 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJ8wecmrJ4Yxs3WKPqPZyHgEsXf2YbYm6buqakyGQTA&s=10" group-title="Sinema",Sinema Aksiyon 1
 http://65.108.239.207:80/sinemaaksiyon/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=579" group-title="Sinema",Sinema Aksiyon 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1CqpNas9Mb8BH0E0saxB8sHztgtdnlzNAQV2_OBpzng&s=10" group-title="Sinema",Sinema Aksiyon 2
 http://65.108.239.207:80/sinemaaksiyon2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema",Sinema Aile
