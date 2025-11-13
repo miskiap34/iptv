@@ -177,13 +177,13 @@ http://65.108.239.207:80/sinemaaksiyon2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema",Sinema Aile
 http://65.108.239.207:80/sinemaaile/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=172" group-title="Sinema",Sinema Komedi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJyJZWrB4uqw3F0LUb9Da_-Ry_DETl9KWeNJijNky-UA&s=10" group-title="Sinema",Sinema Komedi
 http://65.108.239.207:80/sinemakomedi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=584" group-title="Sinema",Sinema Yerli 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOtfgYqWcoPn9lyxnMppj2ibFEecKDWPYahwEh0f3DBA&s=10" group-title="Sinema",Sinema Yerli 1
 http://65.108.239.207:80/sinemayerli/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=585" group-title="Sinema",Sinema Yerli 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaX6Ybc_dxbX0smilnSzqMuRjR7c-3A1WlU3oFK7AnxQ&s=10" group-title="Sinema",Sinema Yerli 2
 http://65.108.239.207:80/sinemayerli2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/850/1001/png-transparent-computer-icons-logo-of-the-bbc-bbc-world-news-uc-browser-text-rectangle-logo.png" group-title="Belgesel",BBC
