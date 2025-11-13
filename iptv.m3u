@@ -123,10 +123,10 @@ http://104.238.23.182/yt1/s/kemalsunal2.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/12/23/24/kemal-sunal-filmografisi-logo-organization-human-behavior-png-favpng-YzrdyJR2yiYu67uYuknFDwkWH.jpg" group-title="Youtube",Kemal Sunal 4
 http://104.238.23.182/yt1/s/kemalsunal3.m3u8
 
-#EXTINF:-1,Zeki Metin Filmleri tvg-logo="https://imgrosetta.webtekno.com/file/385822/800x450.jpg" group-title="Youtube"
+#EXTINF:-1 tvg-logo="https://imgrosetta.webtekno.com/file/385822/800x450.jpg" group-title="Youtube",Zeki Metin Filmleri
 http://104.238.23.182/yt1/s/zekimetin.m3u8
 
-#EXTINF:-1,Yeşilçam tvg-logo="https://images.seeklogo.com/logo-png/30/1/d-yesilcam-logo-png_seeklogo-308552.png" group-title="Youtube"
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/d-yesilcam-logo-png_seeklogo-308552.png" group-title="Youtube",Yeşilçam
 http://104.238.23.182/yt1/s/yesilcam.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSel-THlwh8i4M0Dl7Y-avHq-GpLtE4PJqiwA&usqp=CAU" group-title="Sinema",Bein Box Office 1
