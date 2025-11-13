@@ -168,31 +168,31 @@ http://65.108.239.207:80/sinemaaksiyon/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=579" group-title="Sinema",Sinema Aksiyon 2
 http://65.108.239.207:80/sinemaaksiyon2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/" group-title="Sinema",Sinema Aile
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema",Sinema Aile
 http://65.108.239.207:80/sinemaaile/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/" group-title="Sinema",Sinema Komedi
+#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=172" group-title="Sinema",Sinema Komedi
 http://65.108.239.207:80/sinemakomedi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/" group-title="Sinema",Sinema Yerli 1
+#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=584" group-title="Sinema",Sinema Yerli 1
 http://65.108.239.207:80/sinemayerli/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/" group-title="Sinema",Sinema Yerli 2
+#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=585" group-title="Sinema",Sinema Yerli 2
 http://65.108.239.207:80/sinemayerli2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/" group-title="Belgesel",BBC
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/850/1001/png-transparent-computer-icons-logo-of-the-bbc-bbc-world-news-uc-browser-text-rectangle-logo.png" group-title="Belgesel",BBC
 http://65.108.239.207:80/bbc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/" group-title="Belgesel",Discovery
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Belgesel",Discovery
 http://65.108.239.207:80/discovery/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/" group-title="Belgesel",Ducobox
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/931/338/png-transparent-high-definition-television-television-channel-docubox-hd-logo-others-television-text-logo.png" group-title="Belgesel",Ducobox
 http://65.108.239.207:80/docubox/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/" group-title="Belgesel",History
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/537/284/png-transparent-history-television-channel-logo-h2-history-miscellaneous-television-angle-thumbnail.png" group-title="Belgesel",History
 http://65.108.239.207:80/history/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/" group-title="Belgesel",Tarih Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/500px-Tarih-tv-logo-siyah-1080x1080.png" group-title="Belgesel",Tarih Tv
 http://65.108.239.207:80/tarihtv/index.m3u8
 
 
