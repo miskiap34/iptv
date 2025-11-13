@@ -165,7 +165,7 @@ http://65.108.239.207:80/sinema2/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EeUptXvXYAAerMe?format=jpg&name=360x360" group-title="Sinema",Sinema 1001
 http://65.108.239.207:80/sinema1001/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002-300x217.png" group-title="Sinema",Sinema 1002
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNT8RLFOuVZlKfvcyOojQVj25D9OG6drMFP69KJpv7D5O1fln0tTzxSP0&s" group-title="Sinema",Sinema 1002
 http://65.108.239.207:80/sinema1002/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJ8wecmrJ4Yxs3WKPqPZyHgEsXf2YbYm6buqakyGQTA&s=10" group-title="Sinema",Sinema Aksiyon 1
