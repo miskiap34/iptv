@@ -99,6 +99,9 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/44/1/trt-cocuk-logo-png_seeklogo-440097.png" group-title="ÇOCUK👶",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfXomvUeiec5XFPQjGmfwmtjsonNFo-eeqLLINOF0ifA&s=10_seeklogo-525860.png" group-title="ÇOCUK👶",TOOM JERYY
+http://208.79.153.42/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/2/trt-diyanet-cocuk-logo-png_seeklogo-525860.png" group-title="ÇOCUK👶",Diyanet Çocuk
 http://104.238.23.182/yt1/s/diyanetcocuk.m3u8
 
@@ -107,6 +110,9 @@ http://104.238.23.182/yt1/s/rafadantayfa.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf7S1LyENvlrBDGeFq0NPINLPtziuhIH2vLtdEL3Gcvg&s=10" group-title="ÇOCUK👶",MR BEAN
 http://104.238.23.182/yt1/s/mrbean.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/11/403/png-transparent-disney-junior-logo-music-television-channel-lyngsat-musical-disney-text-logo-music-video.png" group-title="ÇOCUK👶",DİSNEY JR
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 4" tvg-id="cd3f6e33-52ca-4696-8285-7007f850e7c7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png" group-title="Sinema",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
