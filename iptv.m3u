@@ -31,7 +31,7 @@ http://95.174.71.114/TR-TRT2/index.m3u8
 #EXTINF:-1 tvg-name="TRT Turk" tvg-id="30ce3b1c-a7cf-4049-8260-c06710fd05a5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master_480.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/1/tabii-logo-png_seeklogo-481975.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TABİİ TV
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/1/tabii-logo-png_seeklogo-483306.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TABİİ TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 #EXTINF:-1 tvg-name="ATV" tvg-id="02abd163-5c0a-444a-a035-cb6f45b4700a" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",ATV
