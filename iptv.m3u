@@ -147,6 +147,97 @@ http://65.108.239.207:80/bsstars/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWabSSsJMeRp3Hlrf4SqDFWqqBdbZiFM8pAfXZMyDK8Q&s=10" group-title="Sinema",Bein Movies Türk 
 http://65.108.239.207:80/bsturk/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://dsmart-internet.com/i/dsmart/75/0x0/5a2e2180402eb771a49592a8.jpg" group-title="Sinema",Movie Smart Türk 
+http://65.108.239.207:80/mvturk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gbzeottvsc31.tvplus.com.tr:33207/CPS/images/universal/film/program/202511/20251107/56/2136191794465eb8f42a_0_XL.webp" group-title="Sinema",Sinema Tv 1
+http://65.108.239.207:80/sinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX38IqF5xedoBrQrX9iEgUFLT77vil4OGsfI5oLbhPfQ&s=10" group-title="Sinema",Sinema Tv 2
+http://65.108.239.207:80/sinema2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=171" group-title="Sinema",Sinema 1001
+http://65.108.239.207:80/sinema1001/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002-300x217.png" group-title="Sinema",Sinema 1002
+http://65.108.239.207:80/sinema1002/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=173" group-title="Sinema",Sinema Aksiyon 1
+http://65.108.239.207:80/sinemaaksiyon/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=579" group-title="Sinema",Sinema Aksiyon 2
+http://65.108.239.207:80/sinemaaksiyon2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/" group-title="Sinema",Sinema Tv 2
+http://65.108.239.207:80/sinemaaile/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/" group-title="Sinema",Sinema Tv 2
+http://65.108.239.207:80/sinemakomedi/index.m3u8
+
+http://65.108.239.207:80/sinemayerli/tracks-v1a1/index.m3u8
+
+http://65.108.239.207:80/sinemayerli2/index.m3u8
+
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-1/index.m3u8
+
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-2/index.m3u8
+
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-3/index.m3u8
+
+http://65.108.239.207:80/bbc/index.m3u8
+
+http://65.108.239.207:80/discovery/index.m3u8
+
+http://65.108.239.207:80/discs/index.m3u8
+
+http://65.108.239.207:80/docubox/index.m3u8
+
+http://65.108.239.207:80/history/index.m3u8
+
+http://65.108.239.207:80/lovenature/index.m3u8
+
+http://65.108.239.207:80/tarihtv/index.m3u8
+
+http://65.108.239.207:80/viasathistory/index.m3u8
+
+http://65.108.239.207/tabi1/index.m3u8
+
+http://65.108.239.207/tabi2/index.m3u8
+
+http://65.108.239.207/tabi3/index.m3u8
+
+http://65.108.239.207/tabi4/index.m3u8
+
+http://65.108.239.207/tabi5/index.m3u8
+
+http://65.108.239.207/tabi6/index.m3u8
+
+http://65.108.239.207/smart1/index.m3u8
+
+http://65.108.239.207/smart2/index.m3u8
+
+http://65.108.239.207/tv85/index.m3u8
+
+http://65.108.239.207/bs4/index.m3u8
+
+http://65.108.239.207/bm1/index.m3u8
+
+http://65.108.239.207/bm2/index.m3u8
+
+http://65.108.239.207/t1/index.m3u8
+
+http://65.108.239.207/t2/index.m3u8
+
+http://65.108.239.207/t3/index.m3u8
+
+http://65.108.239.207/t4/index.m3u8
+
+http://65.108.239.207/aspor/index.m3u8
+
+http://65.108.239.207/ahaber/index.m3u8
+
+http://65.108.239.207/atv/index.m3u8
+
 
 
 
