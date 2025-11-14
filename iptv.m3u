@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml"
 
 #EXTINF:-1 tvg-id="" tvg-name="Kızılcık Şerbeti - Son Bolum" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Diziler", Kızılcık Şerbeti - Son Bolum 
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizilcik.Serbeti.SON.mkv
