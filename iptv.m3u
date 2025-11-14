@@ -69,8 +69,6 @@ https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/A-haber-tr.png" group-title="HABER",A HABER
 http://65.108.239.207/ahaber/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-gzt-tv.png" group-title="HABER",GZT TV
-https://mn-nl.mncdn.com/gzttv/gzttv/master_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/CNN_Turk.svg/revision/latest?cb=20140625184934" group-title="HABER",CNN Turk
 http://95.174.71.114/TR-CNN-TURK/index.m3u8
@@ -79,7 +77,7 @@ http://95.174.71.114/TR-CNN-TURK/index.m3u8
 http://95.174.71.114/TR-NTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/2/haberturk-tv-ve-gazete-logo-png_seeklogo-307034.png" group-title="HABER",HABERTURK TV
-https://stream-extractor.koprulu2.workers.dev/?url=https://m.haberturk.com/canliyayin&ext=m3u8
+http://104.238.23.182/yt1/s/haberturk.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
@@ -92,6 +90,9 @@ http://104.238.23.182/yt1/s/sozcutv.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="HABER",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-gzt-tv.png" group-title="HABER",GZT TV
+https://mn-nl.mncdn.com/gzttv/gzttv/master_480.m3u8
 
 #EXTINF:-1 tvg-name="TBMM TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png" group-title="HABER",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
