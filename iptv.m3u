@@ -185,7 +185,7 @@ http://65.108.239.207:80/sinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX38IqF5xedoBrQrX9iEgUFLT77vil4OGsfI5oLbhPfQ&s=10" group-title="Sinema",Sinema Tv 2
 http://65.108.239.207:80/sinema2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EeUptXvXYAAerMe?format=jpg&name=360x360" group-title="Sinema",Sinema 1001
+#EXTINF:-1 tvg-id="sinema1001.tr" tvg-logo="https://pbs.twimg.com/media/EeUptXvXYAAerMe?format=jpg&name=360x360" group-title="Sinema",Sinema 1001
 http://65.108.239.207:80/sinema1001/index.m3u8
 
 #EXTINF:-1 tvg-id="sinema1002.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNT8RLFOuVZlKfvcyOojQVj25D9OG6drMFP69KJpv7D5O1fln0tTzxSP0&s" group-title="Sinema",Sinema 1002
