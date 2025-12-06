@@ -218,7 +218,7 @@ http://65.108.239.207:80/discovery/index.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/931/338/png-transparent-high-definition-television-television-channel-docubox-hd-logo-others-television-text-logo.png" group-title="Belgesel",Ducobox
 http://65.108.239.207:80/docubox/index.m3u8
 
-#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="https://w7.pngwing.com/pngs/537/284/png-transparent-history-television-channel-logo-h2-history-miscellaneous-television-angle-thumbnail.png" group-title="Belgesel",History Cha
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="https://w7.pngwing.com/pngs/537/284/png-transparent-history-television-channel-logo-h2-history-miscellaneous-television-angle-thumbnail.png" group-title="Belgesel",History
 http://65.108.239.207:80/history/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/500px-Tarih-tv-logo-siyah-1080x1080.png" group-title="Belgesel",Tarih Tv
