@@ -75,7 +75,7 @@ http://95.174.71.114/TR-CNN-TURK/index.m3u8
 http://95.174.71.114/TR-NTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_elBAqdmjI1RCN9YoKtkVSTcEGIb-oscbbChM9Ql_5g&s=10" group-title="HABER",HABERTÜRK
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_720p.m3u8
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
