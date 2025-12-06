@@ -37,7 +37,7 @@ http://89.187.191.41/ATV-HD-TR/video.m3u8
 https://streams.uzunmuhalefet.com/stream/6bdc8fb5-3e82-4b44-a0b1-6ab9fdc35d3f.m3u8
 
 
-#EXTINF:-1 tvg-name="STAR TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",STAR TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",STAR TV
 http://95.174.71.114/TR-STAR/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",SHOW TV
@@ -98,7 +98,7 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEkOvyA9gsyyl98fITmCo5Ik8_luEzOXgbdZT0rkFA-tWroaFPtfkqJI&s" group-title="ÇOCUK👶",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4_LhQxdu8BTQ7SWckILlUShfXSBW65z9GUhVn5lD0_5ibIbBBa_kSbsxT-OvC5wwWSFlUPo2Y9A6exclMtuCAv8aAWb_fwtVEQekimF7u&s=10" group-title="ÇOCUK👶",Minika Cocuk
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4_LhQxdu8BTQ7SWckILlUShfXSBW65z9GUhVn5lD0_5ibIbBBa_kSbsxT-OvC5wwWSFlUPo2Y9A6exclMtuCAv8aAWb_fwtVEQekimF7u&s=10" group-title="ÇOCUK👶",Minika Çoçuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwAhOhF6GFnaPZUoingWfpJEm4mAkwv8udF1IvJ6M6g&s=10" group-title="ÇOCUK👶",Minika Go
