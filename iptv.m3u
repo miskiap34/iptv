@@ -203,7 +203,7 @@ http://65.108.239.207:80/sinemaaile/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJyJZWrB4uqw3F0LUb9Da_-Ry_DETl9KWeNJijNky-UA&s=10" group-title="Sinema",Sinema Komedi
 http://65.108.239.207:80/sinemakomedi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOtfgYqWcoPn9lyxnMppj2ibFEecKDWPYahwEh0f3DBA&s=10" group-title="Sinema",Sinema Yerli 1
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOtfgYqWcoPn9lyxnMppj2ibFEecKDWPYahwEh0f3DBA&s=10" group-title="Sinema",Sinema Yerli 1
 http://65.108.239.207:80/sinemayerli/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaX6Ybc_dxbX0smilnSzqMuRjR7c-3A1WlU3oFK7AnxQ&s=10" group-title="Sinema",Sinema Yerli 2
