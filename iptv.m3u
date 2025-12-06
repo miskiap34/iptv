@@ -173,7 +173,7 @@ http://65.108.239.207:80/bspremier1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Sinema",Bein Movies Stars
 http://65.108.239.207:80/bsstars/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWabSSsJMeRp3Hlrf4SqDFWqqBdbZiFM8pAfXZMyDK8Q&s=10" group-title="Sinema",Bein Movies Türk 
+#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWabSSsJMeRp3Hlrf4SqDFWqqBdbZiFM8pAfXZMyDK8Q&s=10" group-title="Sinema",Bein Movies Türk 
 http://65.108.239.207:80/bsturk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dsmart-internet.com/i/dsmart/75/0x0/5a2e2180402eb771a49592a8.jpg" group-title="Sinema",Movie Smart Türk 
