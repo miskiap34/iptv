@@ -18,13 +18,13 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
 #EXTINF:-1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/68c83316f35cf5ba33dfcb33.jpg" group-title="Diziler",Güller ve Günahlar
 http://104.254.194.254:80/movie/alicite3/NkTy8Mzn6L/333381.mkv
 
-#EXTINF:-1 tvg-name="TRT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 
-#EXTINF:-1 tvg-name="TRT2" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT2
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 2
 http://95.174.71.114/TR-TRT2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRTTurk
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRTTurk
 https://tv-trtturk.medya.trt.com.tr/master_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8-YMCO-cvV3qk_skx82iolzNKQEBgV_RVek4DHFJTg2TMa8pqcVH9x1o&s=10" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TABİİ TV
