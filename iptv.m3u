@@ -110,10 +110,10 @@ http://208.79.153.42/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 http://104.238.23.182/yt1/s/diyanetcocuk.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8da4GWuAgyCyME68xTvbXDBFaj915Z04FtFhwSepdkM-kIKNPIMvsdicwQffP8_49CH5toEJZ6nTBzh5v7ZE_GDxRa3m_ZaqXCaH1j434XQ&s=10" group-title="ÇOCUK👶",Rafadan Tayfa
-http://104.238.23.182/yt1/s/rafadantayfa.m3u8
+http://5.178.103.239:82/yt1/s/rafadantayfa.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf7S1LyENvlrBDGeFq0NPINLPtziuhIH2vLtdEL3Gcvg&s=10" group-title="ÇOCUK👶",MR BEAN
-http://104.238.23.182/yt1/s/mrbean.m3u8
+http://5.178.103.239:82/yt1/s/mrbean.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/11/403/png-transparent-disney-junior-logo-music-television-channel-lyngsat-musical-disney-text-logo-music-video.png" group-title="ÇOCUK👶",DİSNEY JR
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
@@ -134,22 +134,19 @@ https://thebest.umittv.workers.dev/dmax
 https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/12/23/24/kemal-sunal-filmografisi-logo-organization-human-behavior-png-favpng-YzrdyJR2yiYu67uYuknFDwkWH.jpg" group-title="Youtube",Kemal Sunal 1
-http://104.238.23.182/yt1/s/kemalsunal.m3u8
+http://5.178.103.239:82/yt1/s/kemalsunal1.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/12/23/24/kemal-sunal-filmografisi-logo-organization-human-behavior-png-favpng-YzrdyJR2yiYu67uYuknFDwkWH.jpg" group-title="Youtube",Kemal Sunal 2
-http://104.238.23.182/yt1/s/kemalsunal1.m3u8
+http://5.178.103.239:82/yt1/s/kemalsunal2.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/12/23/24/kemal-sunal-filmografisi-logo-organization-human-behavior-png-favpng-YzrdyJR2yiYu67uYuknFDwkWH.jpg" group-title="Youtube",Kemal Sunal 3
-http://104.238.23.182/yt1/s/kemalsunal2.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.favpng.com/12/23/24/kemal-sunal-filmografisi-logo-organization-human-behavior-png-favpng-YzrdyJR2yiYu67uYuknFDwkWH.jpg" group-title="Youtube",Kemal Sunal 4
-http://104.238.23.182/yt1/s/kemalsunal3.m3u8
+http://5.178.103.239:82/yt1/s/kemalsunal3.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgrosetta.webtekno.com/file/385822/800x450.jpg" group-title="Youtube",Zeki Metin Filmleri
-http://104.238.23.182/yt1/s/zekimetin.m3u8
+http://5.178.103.239:82/yt1/s/zekimetin.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbj_eZYQe2EQ_vsGSK2vXLkucjK_v2cdy5vtQqEk8L1w&s=10" group-title="Youtube",Yeşilçam
-http://104.238.23.182/yt1/s/yesilcam.m3u8
+http://162.212.179.33/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSel-THlwh8i4M0Dl7Y-avHq-GpLtE4PJqiwA&usqp=CAU" group-title="Sinema",beIN Box Office 1
 http://65.108.239.207:80/box1/index.m3u8
