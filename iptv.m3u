@@ -133,14 +133,14 @@ https://thebest.umittv.workers.dev/dmax
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.favpng.com/12/23/24/kemal-sunal-filmografisi-logo-organization-human-behavior-png-favpng-YzrdyJR2yiYu67uYuknFDwkWH.jpg" group-title="Youtube",Kemal Sunal 1
-http://5.178.103.239:82/yt1/s/kemalsunal1.m3u8
+#EXTINF:-1 tvg-id="kemalsunal" tvg-name="Kemal Sunal 7/24" tvg-logo="https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj" group-title="Youtube",Kemal Sunal 7/24
+http://87.121.104.29:145/kemalsunal/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.favpng.com/12/23/24/kemal-sunal-filmografisi-logo-organization-human-behavior-png-favpng-YzrdyJR2yiYu67uYuknFDwkWH.jpg" group-title="Youtube",Kemal Sunal 2
-http://5.178.103.239:82/yt1/s/kemalsunal2.m3u8
+#EXTINF:-1 tvg-id="gulsahfilm" tvg-name="Gülşah Film 7/24" tvg-logo="https://yt3.googleusercontent.com/jHfMww520ZaX-PZ6CB5sqE5scVs0sl7Kgwc3rzzbzwa3IzXJy8iOyJM9WjLktwtLFgCbvpeZk9Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="Youtube",Gülşah Film 7/24
+http://87.121.104.29:145/gulsahfilm/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.favpng.com/12/23/24/kemal-sunal-filmografisi-logo-organization-human-behavior-png-favpng-YzrdyJR2yiYu67uYuknFDwkWH.jpg" group-title="Youtube",Kemal Sunal 3
-http://5.178.103.239:82/yt1/s/kemalsunal3.m3u8
+#EXTINF:-1 tvg-id="arzufilm" tvg-name="Arzu Film Yeşilçam 7/24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE=s160-c-k-c0x00ffffff-no-rj" group-title="Youtube",Arzu Film Yeşilçam 7/24
+http://87.121.104.29:145/arzufilm/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgrosetta.webtekno.com/file/385822/800x450.jpg" group-title="Youtube",Zeki Metin Filmleri
 http://5.178.103.239:82/yt1/s/zekimetin.m3u8
