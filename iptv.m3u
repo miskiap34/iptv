@@ -142,6 +142,12 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
 #EXTINF:-1 tvg-id="kemalsunal" tvg-name="Kemal Sunal 7/24" tvg-logo="https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj" group-title="Youtube",Kemal Sunal 7/24
 http://87.121.104.29:145/kemalsunal/stream.m3u8
 
+#EXTINF:-1 tvg-id="kemalsunal1" tvg-name="Kemal Sunal1 7/24" tvg-logo="https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj" group-title="Youtube",Kemal Sunal1 7/24
+http://104.238.23.221/yt1.php?v=pdyq7lixkPI
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mUirvGyoNfSIwmRFt7zUK-UGBofmAbpc-j-CHKvSR0eME=s160-c-k-c0x00ffffff-no-rj" group-title="Youtube",Eski Türk Filmleri
+http://104.238.23.221/yt1.php?v=fC-Iom4mRvI
+
 #EXTINF:-1 tvg-id="gulsahfilm" tvg-name="Gülşah Film 7/24" tvg-logo="https://yt3.googleusercontent.com/jHfMww520ZaX-PZ6CB5sqE5scVs0sl7Kgwc3rzzbzwa3IzXJy8iOyJM9WjLktwtLFgCbvpeZk9Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="Youtube",Gülşah Film 7/24
 http://87.121.104.29:145/gulsahfilm/stream.m3u8
 
@@ -225,7 +231,6 @@ http://65.108.239.207:80/history/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/500px-Tarih-tv-logo-siyah-1080x1080.png" group-title="Belgesel",Tarih Tv
 http://65.108.239.207:80/tarihtv/index.m3u8
-
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png" group-title="Belgesel",Nat Geo Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
