@@ -72,7 +72,7 @@ http://65.108.239.207/ahaber/index.m3u8
 http://95.174.71.114/TR-CNN-TURK/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="HABER",NTV
-http://95.174.71.114/TR-NTV/index.m3u8
+https://boncuktv.dunya-yalan.workers.dev/ntv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_elBAqdmjI1RCN9YoKtkVSTcEGIb-oscbbChM9Ql_5g&s=10" group-title="HABER",HABERTÜRK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
