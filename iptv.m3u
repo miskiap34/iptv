@@ -157,7 +157,7 @@ http://87.121.104.29:145/arzufilm/stream.m3u8
 http://5.178.103.239:82/yt1/s/zekimetin.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbj_eZYQe2EQ_vsGSK2vXLkucjK_v2cdy5vtQqEk8L1w&s=10" group-title="Youtube",Yeşilçam
-http://162.212.179.33/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/rewind-128800.m3u8
+http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/rewind-259999.m3u8
 
 #EXTINF:-1 tvg-logo="tv logo" group-title="Sinema",Pofidix Sinema
 http://5.178.103.239:82/d/live/out.m3u8
