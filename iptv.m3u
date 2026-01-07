@@ -182,10 +182,10 @@ http://65.108.239.207:80/bsturk/index.m3u8
 #EXTINF:-1 tvg-id="moviesmarttürk.tr" tvg-logo="https://dsmart-internet.com/i/dsmart/75/0x0/5a2e2180402eb771a49592a8.jpg" group-title="Sinema",Movie Smart Türk 
 http://65.108.239.207:80/mvturk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX38IqF5xedoBrQrX9iEgUFLT77vil4OGsfI5oLbhPfQ&s=10" group-title="Sinema",Sinema Tv 1
+#EXTINF:-1 tvg-id="sinematv.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX38IqF5xedoBrQrX9iEgUFLT77vil4OGsfI5oLbhPfQ&s=10" group-title="Sinema",Sinema Tv 1
 http://65.108.239.207:80/sinema/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX38IqF5xedoBrQrX9iEgUFLT77vil4OGsfI5oLbhPfQ&s=10" group-title="Sinema",Sinema Tv 2
+#EXTINF:-1 tvg-id="sinematv2.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX38IqF5xedoBrQrX9iEgUFLT77vil4OGsfI5oLbhPfQ&s=10" group-title="Sinema",Sinema Tv 2
 http://65.108.239.207:80/sinema2/index.m3u8
 
 #EXTINF:-1 tvg-id="sinema1001.tr" tvg-logo="https://pbs.twimg.com/media/EeUptXvXYAAerMe?format=jpg&name=360x360" group-title="Sinema",Sinema 1001
@@ -194,16 +194,16 @@ http://65.108.239.207:80/sinema1001/index.m3u8
 #EXTINF:-1 tvg-id="sinema1002.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNT8RLFOuVZlKfvcyOojQVj25D9OG6drMFP69KJpv7D5O1fln0tTzxSP0&s" group-title="Sinema",Sinema 1002
 http://65.108.239.207:80/sinema1002/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJ8wecmrJ4Yxs3WKPqPZyHgEsXf2YbYm6buqakyGQTA&s=10" group-title="Sinema",Sinema Aksiyon 1
+#EXTINF:-1 tvg-id="sinemaaksiyon.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJ8wecmrJ4Yxs3WKPqPZyHgEsXf2YbYm6buqakyGQTA&s=10" group-title="Sinema",Sinema Aksiyon 1
 http://65.108.239.207:80/sinemaaksiyon/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1CqpNas9Mb8BH0E0saxB8sHztgtdnlzNAQV2_OBpzng&s=10" group-title="Sinema",Sinema Aksiyon 2
+#EXTINF:-1 tvg-id="sinemaaksiyon2.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1CqpNas9Mb8BH0E0saxB8sHztgtdnlzNAQV2_OBpzng&s=10" group-title="Sinema",Sinema Aksiyon 2
 http://65.108.239.207:80/sinemaaksiyon2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSJhnrPRg0T0Ap4IPv_KULAH3q6sGgZsgyGbYJhpIyQ&s=10" group-title="Sinema",Sinema Aile
+#EXTINF:-1 tvg-id="sinemaaile.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSJhnrPRg0T0Ap4IPv_KULAH3q6sGgZsgyGbYJhpIyQ&s=10" group-title="Sinema",Sinema Aile
 http://65.108.239.207:80/sinemaaile/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJyJZWrB4uqw3F0LUb9Da_-Ry_DETl9KWeNJijNky-UA&s=10" group-title="Sinema",Sinema Komedi
+#EXTINF:-1 tvg-id="sinemakomedi.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJyJZWrB4uqw3F0LUb9Da_-Ry_DETl9KWeNJijNky-UA&s=10" group-title="Sinema",Sinema Komedi
 http://65.108.239.207:80/sinemakomedi/index.m3u8
 
 #EXTINF:-1 tvg-id="sinemayerli.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOtfgYqWcoPn9lyxnMppj2ibFEecKDWPYahwEh0f3DBA&s=10" group-title="Sinema",Sinema Yerli 1
@@ -224,7 +224,7 @@ http://65.108.239.207:80/docubox/index.m3u8
 #EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="https://w7.pngwing.com/pngs/537/284/png-transparent-history-television-channel-logo-h2-history-miscellaneous-television-angle-thumbnail.png" group-title="Belgesel",History
 http://65.108.239.207:80/history/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/500px-Tarih-tv-logo-siyah-1080x1080.png" group-title="Belgesel",Tarih Tv
+#EXTINF:-1 tvg-id="tarihtv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/500px-Tarih-tv-logo-siyah-1080x1080.png" group-title="Belgesel",Tarih Tv
 http://65.108.239.207:80/tarihtv/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png" group-title="Belgesel",Nat Geo Wild
