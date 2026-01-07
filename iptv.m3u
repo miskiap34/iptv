@@ -18,46 +18,46 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
 #EXTINF:-1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/68c83316f35cf5ba33dfcb33.jpg" group-title="Diziler",Güller ve Günahlar
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guller.ve.Gunahlar.SON.mkv
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" group-title="ULUSAL KANALLAR",TRT1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/c43c931c-f79b-4adf-a7de-3aa0d0fe785e.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 2
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/c43c931c-f79b-4adf-a7de-3aa0d0fe785e.png" group-title="ULUSAL KANALLAR",TRT 2
 http://95.174.71.114/TR-TRT2/index.m3u8
 
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/b92d1f4b-55f5-4950-81ae-e4c31cd5e856.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT Türk
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/b92d1f4b-55f5-4950-81ae-e4c31cd5e856.png" group-title="ULUSAL KANALLAR",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_480.m3u8
 
-#EXTINF:-1 tvg-id="tabiitv.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8-YMCO-cvV3qk_skx82iolzNKQEBgV_RVek4DHFJTg2TMa8pqcVH9x1o&s=10" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Tabii TV
+#EXTINF:-1 tvg-id="tabiitv.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8-YMCO-cvV3qk_skx82iolzNKQEBgV_RVek4DHFJTg2TMa8pqcVH9x1o&s=10" group-title="ULUSAL KANALLAR",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://assets.uzunmuhalefet.com/logos/f49135ae-a8f7-45b4-8762-e3e447215e7d.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",KANAL D
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://assets.uzunmuhalefet.com/logos/f49135ae-a8f7-45b4-8762-e3e447215e7d.png" group-title="ULUSAL KANALLAR",KANAL D
 http://65.108.239.207/kanald/index.m3u8
 
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",STAR TV
 http://95.174.71.114/TR-STAR/index.m3u8
 
-#EXTINF:-1 tvg-id="showtv.tr" tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",SHOW TV
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="ULUSAL KANALLAR",SHOW TV
 http://95.174.71.114/TR-SHOW/index.m3u8
 
-#EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",NOW
+#EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="ULUSAL KANALLAR",NOW
 http://95.174.71.114/TR-FOX/index.m3u8
 
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://assets.uzunmuhalefet.com/logos/9af5ca05-f788-4ca3-9fd3-92c89d555c2b.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",KANAL 7
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://assets.uzunmuhalefet.com/logos/9af5ca05-f788-4ca3-9fd3-92c89d555c2b.png" group-title="ULUSAL KANALLAR",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 
-#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV" tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",BEYAZ TV
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV" tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="ULUSAL KANALLAR",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
-#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/8a33c746-0aff-44e0-9f1a-1bb3515de3ad.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TV 8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/8a33c746-0aff-44e0-9f1a-1bb3515de3ad.png" group-title="ULUSAL KANALLAR",TV 8
 https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tr9yvr73465&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
-#EXTINF:-1 tvg-id="a2tv.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",A2
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="ULUSAL KANALLAR",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
 
-#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/0209d87d-bc28-48a5-b1c0-0354f27017b7.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Teve2
+#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/0209d87d-bc28-48a5-b1c0-0354f27017b7.png" group-title="ULUSAL KANALLAR",Teve2
 https://boncuktv.dunya-yalan.workers.dev/teve2
 
 #EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-haber-televizyon-kanali.3fee2de.png" group-title="HABER",TRT HABER
