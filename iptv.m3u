@@ -60,13 +60,11 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
 #EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/0209d87d-bc28-48a5-b1c0-0354f27017b7.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Teve2
 https://boncuktv.dunya-yalan.workers.dev/teve2
 
-
 #EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-haber-televizyon-kanali.3fee2de.png" group-title="HABER",TRT HABER
 https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
 
 #EXTINF:-1 tvg-id="ahaber.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/A-haber-tr.png" group-title="HABER",A HABER
 http://65.108.239.207/ahaber/index.m3u8
-
 
 #EXTINF:-1 tvg-id="cnnturk.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/CNN_Turk.svg/revision/latest?cb=20140625184934" group-title="HABER",CNN Türk
 http://95.174.71.114/TR-CNN-TURK/index.m3u8
@@ -74,7 +72,7 @@ http://95.174.71.114/TR-CNN-TURK/index.m3u8
 #EXTINF:-1 tvg-id="ntv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/71dca388-e7d8-46c0-9b28-439b954a7613.png" group-title="HABER",NTV
 https://boncuktv.dunya-yalan.workers.dev/ntv
 
-#EXTINF:-1 tvg-id="haberturk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_elBAqdmjI1RCN9YoKtkVSTcEGIb-oscbbChM9Ql_5g&s=10" group-title="HABER",HABERTÜRK
+#EXTINF:-1 tvg-id="habertürk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_elBAqdmjI1RCN9YoKtkVSTcEGIb-oscbbChM9Ql_5g&s=10" group-title="HABER",HABERTÜRK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 
 #EXTINF:-1 tvg-id="halktv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/8373e35a-90c5-4396-888a-eb0b8a3fb6d0.png" group-title="HABER",HALK TV
@@ -89,13 +87,13 @@ http://65.108.239.207/sozcutv/index.m3u8
 #EXTINF:-1 tvg-id="360tv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/9c668bd2-85f6-464d-b366-611e84c6f372.png" group-title="HABER",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-gzt-tv.png" group-title="HABER",GZT TV
+#EXTINF:-1 tvg-id="gzttv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-gzt-tv.png" group-title="HABER",GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/master_480.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png" group-title="HABER",TBMM-TV
+#EXTINF:-1 tvg-id="tbmmtv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png" group-title="HABER",TBMM-TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEkOvyA9gsyyl98fITmCo5Ik8_luEzOXgbdZT0rkFA-tWroaFPtfkqJI&s" group-title="ÇOCUK👶",TRT Çocuk
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEkOvyA9gsyyl98fITmCo5Ik8_luEzOXgbdZT0rkFA-tWroaFPtfkqJI&s" group-title="ÇOCUK👶",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="MİNİKA ÇOÇUK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4_LhQxdu8BTQ7SWckILlUShfXSBW65z9GUhVn5lD0_5ibIbBBa_kSbsxT-OvC5wwWSFlUPo2Y9A6exclMtuCAv8aAWb_fwtVEQekimF7u&s=10" group-title="ÇOCUK👶",Minika Çocuk
