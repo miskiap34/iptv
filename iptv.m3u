@@ -105,7 +105,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfXomvUeiec5XFPQjGmfwmtjsonNFo-eeqLLINOF0ifA&s=10_seeklogo-525860.png" group-title="ÇOCUK👶",TOOM JERYY
 http://5.178.103.239:82/yt1/s/tomjerry.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuTwtK7_c12nq2bLd7wbGABOsPlGeZ1iX-nggUsSHClw&s=10" group-title="ÇOCUK👶",Diyanet Çocuk
+#EXTINF:-1 tvg-id="trtdiyanetcocuk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuTwtK7_c12nq2bLd7wbGABOsPlGeZ1iX-nggUsSHClw&s=10" group-title="ÇOCUK👶",Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8da4GWuAgyCyME68xTvbXDBFaj915Z04FtFhwSepdkM-kIKNPIMvsdicwQffP8_49CH5toEJZ6nTBzh5v7ZE_GDxRa3m_ZaqXCaH1j434XQ&s=10" group-title="ÇOCUK👶",Rafadan Tayfa
