@@ -182,7 +182,7 @@ http://65.108.239.207:80/bsturk/index.m3u8
 #EXTINF:-1 tvg-id="moviesmarttürk.tr" tvg-logo="https://dsmart-internet.com/i/dsmart/75/0x0/5a2e2180402eb771a49592a8.jpg" group-title="Sinema",Movie Smart Türk 
 http://65.108.239.207:80/mvturk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://gbzeottvsc31.tvplus.com.tr:33207/CPS/images/universal/film/program/202511/20251107/56/2136191794465eb8f42a_0_XL.webp" group-title="Sinema",Sinema Tv 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX38IqF5xedoBrQrX9iEgUFLT77vil4OGsfI5oLbhPfQ&s=10" group-title="Sinema",Sinema Tv 1
 http://65.108.239.207:80/sinema/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX38IqF5xedoBrQrX9iEgUFLT77vil4OGsfI5oLbhPfQ&s=10" group-title="Sinema",Sinema Tv 2
