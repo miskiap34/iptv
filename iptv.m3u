@@ -51,6 +51,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 #EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV" tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="ULUSAL KANALLAR",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
+
 #EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/8a33c746-0aff-44e0-9f1a-1bb3515de3ad.png" group-title="ULUSAL KANALLAR",TV 8
 https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tr9yvr73465&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
@@ -241,6 +242,7 @@ http://65.108.239.207:80/tarihtv/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png" group-title="Belgesel",Nat Geo Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
+
 
 #EXTINF:-1 tvg-id="somine" tvg-name="Şömine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaTqhDOMt4sRBXclx0Iob8F6bhZ8bWLVg4tA&s" group-title="Dinlenme Vakti",Şömine
 http://87.121.104.29:145/somine/stream.m3u8
