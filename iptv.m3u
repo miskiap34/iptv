@@ -42,19 +42,19 @@ http://95.174.71.114/TR-STAR/index.m3u8
 #EXTINF:-1 tvg-id="showtv.tr" tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",SHOW TV
 http://95.174.71.114/TR-SHOW/index.m3u8
 
-#EXTINF:-1 tvg-name="NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",NOW
+#EXTINF:-1 tvg-id="now.tr" tvg-name="NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",NOW
 http://95.174.71.114/TR-FOX/index.m3u8
 
-#EXTINF:-1 tvg-name="KANAL 7" tvg-logo="https://assets.uzunmuhalefet.com/logos/9af5ca05-f788-4ca3-9fd3-92c89d555c2b.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",KANAL 7
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://assets.uzunmuhalefet.com/logos/9af5ca05-f788-4ca3-9fd3-92c89d555c2b.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 
-#EXTINF:-1 tvg-name="BEYAZ TV" tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",BEYAZ TV
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV" tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
-#EXTINF:-1 tvg-name="TV8" tvg-logo="https://assets.uzunmuhalefet.com/logos/8a33c746-0aff-44e0-9f1a-1bb3515de3ad.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TV 8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/8a33c746-0aff-44e0-9f1a-1bb3515de3ad.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TV 8
 https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tr9yvr73465&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
-#EXTINF:-1 tvg-name="A2" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",A2
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
 
 #EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/0209d87d-bc28-48a5-b1c0-0354f27017b7.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Teve2
