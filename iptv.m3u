@@ -201,11 +201,13 @@ http://65.108.239.207:80/sinema2/index.m3u8
 #EXTINF:-1 tvg-id="sinematv1001.tr" tvg-logo="https://pbs.twimg.com/media/EeUptXvXYAAerMe?format=jpg&name=360x360" group-title="Sinema",Sinema 1001
 http://65.108.239.207:80/sinema1001/index.m3u8
 
+
 #EXTINF:-1 tvg-id="sinematv1002.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNT8RLFOuVZlKfvcyOojQVj25D9OG6drMFP69KJpv7D5O1fln0tTzxSP0&s" group-title="Sinema",Sinema 1002
 http://65.108.239.207:80/sinema1002/index.m3u8
 
 #EXTINF:-1 tvg-id="sinematvaksiyon.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJ8wecmrJ4Yxs3WKPqPZyHgEsXf2YbYm6buqakyGQTA&s=10" group-title="Sinema",Sinema Aksiyon 1
 http://65.108.239.207:80/sinemaaksiyon/index.m3u8
+
 
 #EXTINF:-1 tvg-id="sinematvaksiyon2.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1CqpNas9Mb8BH0E0saxB8sHztgtdnlzNAQV2_OBpzng&s=10" group-title="Sinema",Sinema Aksiyon 2
 http://65.108.239.207:80/sinemaaksiyon2/index.m3u8
