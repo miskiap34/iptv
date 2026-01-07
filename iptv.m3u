@@ -92,7 +92,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-gzt-tv.png" group-title="HABER",GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/master_480.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png" group-title="HABER",TBMM-TV
+#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png" group-title="HABER",TBMM-TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEkOvyA9gsyyl98fITmCo5Ik8_luEzOXgbdZT0rkFA-tWroaFPtfkqJI&s" group-title="ÇOCUK👶",TRT Çocuk
@@ -119,7 +119,7 @@ http://104.238.23.221/yt1.php?v=amzgpxDsJjQ
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/11/403/png-transparent-disney-junior-logo-music-television-channel-lyngsat-musical-disney-text-logo-music-video.png" group-title="ÇOCUK👶",DİSNEY JR
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
-#EXTINF:-1 tvg-name="TV 4" tvg-id="cd3f6e33-52ca-4696-8285-7007f850e7c7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png" group-title="Sinema",TV 4
+#EXTINF:-1 tvg-name="TV 4" tvg-id="tv4.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/83e033f3-6cb3-4afa-8aec-85f2a049648f.png" group-title="Sinema",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-id="dmax" tvg-name="Dmax Antik Mısır 7/24" tvg-logo="https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s160-c-k-c0x00ffffff-no-rj" group-title="Belgesel",Dmax Antik Mısır 7/24
@@ -131,13 +131,13 @@ http://87.121.104.29:145/tlcsucvearastirma/stream.m3u8
 #EXTINF:-1 tvg-id="naturetimetr" tvg-name="Nature Time Türkçede" tvg-logo="https://yt3.googleusercontent.com/JwtQimeNj81XMiK6LjTT3Lfkorlme3nIWTF81K7EzugjszPuU3wD3dstoHvt4SRgb4EG1H1U=s160-c-k-c0x00ffffff-no-rj" group-title="Belgesel",Nature Time Türkçede
 http://87.121.104.29:145/naturetimetr/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" group-title="Belgesel",TLC
+#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/8ae78da8-6ebd-4ba2-bd97-fcf61be6471e.png" group-title="Belgesel",TLC
 https://stream-extractor.koprulu2.workers.dev/?url=https://www.tlctv.com.tr/canli-izle&ext=m3u8
 
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Belgesel",DMAX
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/f9f83480-1122-44da-9db1-93d16d10e249.png" group-title="Belgesel",DMAX
 https://thebest.umittv.workers.dev/dmax
 
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT BELGESEL
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/df68b5b5-c14f-4d9c-a8cb-b34a02f50c18.png" group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
 
 #EXTINF:-1 tvg-id="kemalsunal" tvg-name="Kemal Sunal 7/24" tvg-logo="https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj" group-title="Youtube",Kemal Sunal 7/24
