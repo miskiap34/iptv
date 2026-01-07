@@ -154,13 +154,13 @@ http://104.238.23.221/yt1.php?v=RK5GCwb-d4Y
 http://162.212.179.33/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="tv logo" group-title="Sinema",Pofidix Sinema
-http://5.178.103.239:82/d/live/out.m3u8?checkedby:MyWay
+http://5.178.103.239:82/d/live/out.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="Sinema",Pofidix Sinema 2
-http://104.238.23.216/d/live/out.m3u8?checkedby:MyWay
+http://104.238.23.216/d/live/out.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="Sinema",Pofidix Sinema 3
-http://104.238.23.182/d/live/out.m3u8?checkedby:MyWay
+http://104.238.23.182/d/live/out.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="Sinema",Boncuk Tv
-http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8?checkedby:MyWay
+http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSel-THlwh8i4M0Dl7Y-avHq-GpLtE4PJqiwA&usqp=CAU" group-title="Sinema",beIN Box Office 1
 http://65.108.239.207:80/box1/index.m3u8
