@@ -90,16 +90,16 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="gzttv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-gzt-tv.png" group-title="HABER",GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/master_480.m3u8
 
-#EXTINF:-1 tvg-id="tbmmtv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png" group-title="HABER",TBMM-TV
+#EXTINF:-1 tvg-id="tbmmtv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png" group-title="HABER",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
 #EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEkOvyA9gsyyl98fITmCo5Ik8_luEzOXgbdZT0rkFA-tWroaFPtfkqJI&s" group-title="ÇOCUK👶",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="MİNİKA ÇOÇUK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4_LhQxdu8BTQ7SWckILlUShfXSBW65z9GUhVn5lD0_5ibIbBBa_kSbsxT-OvC5wwWSFlUPo2Y9A6exclMtuCAv8aAWb_fwtVEQekimF7u&s=10" group-title="ÇOCUK👶",Minika Çocuk
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-name="MİNİKA ÇOÇUK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4_LhQxdu8BTQ7SWckILlUShfXSBW65z9GUhVn5lD0_5ibIbBBa_kSbsxT-OvC5wwWSFlUPo2Y9A6exclMtuCAv8aAWb_fwtVEQekimF7u&s=10" group-title="ÇOCUK👶",Minika Çocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwAhOhF6GFnaPZUoingWfpJEm4mAkwv8udF1IvJ6M6g&s=10" group-title="ÇOCUK👶",Minika Go
+#EXTINF:-1 tvg-id="Minikago.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwAhOhF6GFnaPZUoingWfpJEm4mAkwv8udF1IvJ6M6g&s=10" group-title="ÇOCUK👶",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfXomvUeiec5XFPQjGmfwmtjsonNFo-eeqLLINOF0ifA&s=10_seeklogo-525860.png" group-title="ÇOCUK👶",TOOM JERYY
