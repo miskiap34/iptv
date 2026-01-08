@@ -48,7 +48,7 @@ http://95.174.71.114/TR-SHOW/index.m3u8
 http://95.174.71.114/TR-FOX/index.m3u8
 
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://assets.uzunmuhalefet.com/logos/9af5ca05-f788-4ca3-9fd3-92c89d555c2b.png" group-title="ULUSAL KANALLAR",KANAL 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 #EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV" tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="ULUSAL KANALLAR",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
