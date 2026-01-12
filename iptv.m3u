@@ -73,7 +73,7 @@ http://65.108.239.207/ahaber/index.m3u8
 http://95.174.71.114/TR-CNN-TURK/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/71dca388-e7d8-46c0-9b28-439b954a7613.png" group-title="HABER",NTV
-https://boncuktv.dunya-yalan.workers.dev/ntv
+https://goldvod.org/live/hpgdisco/123456/282.m3u8
 
 #EXTINF:-1 tvg-id="haberturktv.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_elBAqdmjI1RCN9YoKtkVSTcEGIb-oscbbChM9Ql_5g&s=10" group-title="HABER",HABERTÜRK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
