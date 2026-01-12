@@ -61,7 +61,7 @@ https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tr9yvr73465&app=7ddc255a-ef47-4
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
 
 #EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/0209d87d-bc28-48a5-b1c0-0354f27017b7.png" group-title="ULUSAL KANALLAR",Teve2
-https://boncuktv.dunya-yalan.workers.dev/teve2
+https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
 
 #EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-haber-televizyon-kanali.3fee2de.png" group-title="HABER",TRT HABER
 https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
