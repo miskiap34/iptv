@@ -96,6 +96,16 @@ https://mn-nl.mncdn.com/gzttv/gzttv/master_480.m3u8
 #EXTINF:-1 tvg-id="tbmmtv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png" group-title="HABER",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
+
+#EXTINF:-1 group-title="Youtube" tvg-id="" tvg-logo="https://i.hizliresim.com/94rhlni.PNG" ,KuzeyMAX TV
+http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
+#EXTINF:-1 group-title="Youtube" tvg-id="" tvg-logo="https://assets.uzunmuhalefet.com/logos/233e84b7-239e-433a-8234-6059c8141ab4.png",Süper Türk Tv
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEkOvyA9gsyyl98fITmCo5Ik8_luEzOXgbdZT0rkFA-tWroaFPtfkqJI&s" group-title="ÇOCUK👶",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
@@ -141,10 +151,6 @@ https://thebest.umittv.workers.dev/dmax
 #EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/df68b5b5-c14f-4d9c-a8cb-b34a02f50c18.png" group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
 
-#EXTINF:-1 group-title="Youtube" tvg-id="" tvg-logo="https://i.hizliresim.com/94rhlni.PNG" ,KuzeyMAX TV
-http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
-#EXTINF:-1 group-title="Youtube" tvg-id="" tvg-logo="https://assets.uzunmuhalefet.com/logos/233e84b7-239e-433a-8234-6059c8141ab4.png",Süper Türk Tv
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kemalsunal" tvg-name="Kemal Sunal 7/24" tvg-logo="https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj" group-title="Youtube",Kemal Sunal 7/24
