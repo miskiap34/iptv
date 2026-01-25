@@ -3,6 +3,8 @@ x-tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml"
 x-tvg-url="https://goldvod.org/xmltv.php?username=hpgdisco&password=123456"
 x-tvg-url="https://goldvod.org/xmltv.php?username=hpgdiscoo&password=123456"
 
+
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Diziler", Kızılcık Şerbeti
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizilcik.Serbeti.SON.mkv
 
@@ -54,7 +56,6 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV" tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="ULUSAL KANALLAR",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
-
 #EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/8a33c746-0aff-44e0-9f1a-1bb3515de3ad.png" group-title="ULUSAL KANALLAR",TV 8
 https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tr9yvr73465&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
@@ -104,8 +105,6 @@ http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
 #EXTINF:-1 tvg-id="globalboxkemalsunal.tr" tvg-name="GLOBAL BOX KEMAL SUNAL" group-title="|TR| SİNEMA &amp; DİZİ",GLOBAL BOX KEMAL SUNAL
-
-
 
 #EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEkOvyA9gsyyl98fITmCo5Ik8_luEzOXgbdZT0rkFA-tWroaFPtfkqJI&s" group-title="ÇOCUK👶",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
