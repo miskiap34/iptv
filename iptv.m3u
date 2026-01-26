@@ -110,6 +110,10 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 tvg-id="kemalsunal" tvg-logo="https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj" group-title="7/24 Film",Kemal Sunal
 http://104.238.23.182/yt1/kms2.m3u8?max_resolution=720p
 
+#EXTINF:-1 tvg-id="kemalsunal" tvg-logo="https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj" group-title="7/24 Film",Kemal Sunal360
+http://87.121.104.29:145/kemalsunal/stream.m3u8?max_resolution=360p
+
+
 #EXTINF:-1 tvg-id="gulsahfilm" tvg-logo="https://yt3.googleusercontent.com/jHfMww520ZaX-PZ6CB5sqE5scVs0sl7Kgwc3rzzbzwa3IzXJy8iOyJM9WjLktwtLFgCbvpeZk9Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="7/24 Film",Gülşah Film 7/24
 http://104.238.23.182/yt1/kms3.m3u8
 
