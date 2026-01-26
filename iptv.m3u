@@ -119,6 +119,10 @@ http://104.238.23.182/yt1/kms1.m3u8
 #EXTINF:-1 tvg-id="arzufilm" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE=s160-c-k-c0x00ffffff-no-rj" group-title="7/24 Film",Arzu Film Yeşilçam 7/24
 http://104.238.23.182/yt1/kms.m3u8
 
+#EXTINF:-1 tvg-id="tivi6.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/82d9c0fb-ef2d-4f75-9eb5-673b7ed8b10b.png" group-title="7/24 Film",Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEkOvyA9gsyyl98fITmCo5Ik8_luEzOXgbdZT0rkFA-tWroaFPtfkqJI&s" group-title="ÇOCUK👶",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
