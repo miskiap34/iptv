@@ -107,7 +107,7 @@ http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 #EXTINF:-1 group-title="7/24 Film" tvg-id="" tvg-logo="https://assets.uzunmuhalefet.com/logos/233e84b7-239e-433a-8234-6059c8141ab4.png",Süper Türk Tv
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
-#EXTINF:-1 tvg-id="kemalsunal" tvg-name="Kemal Sunal 7/24" tvg-logo="https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj" group-title="Youtube",Kemal Sunal
+#EXTINF:-1 tvg-id="kemalsunal" tvg-logo="https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj" group-title="7/24 Film",Kemal Sunal
 http://104.238.23.182/yt1/kms2.m3u8?max_resolution=720p
 
 #EXTINF:-1 tvg-id="gulsahfilm" tvg-logo="https://yt3.googleusercontent.com/jHfMww520ZaX-PZ6CB5sqE5scVs0sl7Kgwc3rzzbzwa3IzXJy8iOyJM9WjLktwtLFgCbvpeZk9Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="7/24 Film",Gülşah Film 7/24
@@ -171,12 +171,6 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbj_eZYQe2EQ_vsGSK2vXLkucjK_v2cdy5vtQqEk8L1w&s=10" group-title="Youtube",Yeşilçam 2
-http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv2/tracks-v1a1/rewind-259999.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbj_eZYQe2EQ_vsGSK2vXLkucjK_v2cdy5vtQqEk8L1w&s=10" group-title="Youtube",Yeşilçam 3
-http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/rewind-259999.m3u8
 
 
 #EXTINF:-1 tvg-logo="tv logo" group-title="Sinema",Pofidix Sinema
