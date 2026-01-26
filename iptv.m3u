@@ -119,12 +119,6 @@ http://104.238.23.182/yt1/kms1.m3u8
 #EXTINF:-1 tvg-id="arzufilm" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE=s160-c-k-c0x00ffffff-no-rj" group-title="7/24 Film",Arzu Film Yeşilçam 7/24
 http://104.238.23.182/yt1/kms.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgrosetta.webtekno.com/file/385822/800x450.jpg" group-title="7/24 Film",Zeki Metin Filmleri
-http://5.178.103.239:82/yt1/s/zekimetin.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbj_eZYQe2EQ_vsGSK2vXLkucjK_v2cdy5vtQqEk8L1w&s=10" group-title="Youtube",Yeşilçam 1
-http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/rewind-259999.m3u8
-
 #EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEkOvyA9gsyyl98fITmCo5Ik8_luEzOXgbdZT0rkFA-tWroaFPtfkqJI&s" group-title="ÇOCUK👶",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
