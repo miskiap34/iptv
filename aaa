@@ -27,16 +27,3 @@ ffmpeg -re -i http://104.238.23.182/yt1/kms3.m3u8 \
 -hls_flags delete_segments \
 gulsah_low.m3u8 &
 
-# Film Atölyesi
-ffmpeg -re -i http://104.238.23.182/yt1/kms1.m3u8 \
--vf scale=854:480 \
--b:v 800k -maxrate 900k -bufsize 1200k \
--c:v libx264 -preset veryfast -profile:v main \
--c:a aac -b:a 96k \
--f hls \
--hls_time 6 \
--hls_list_size 6 \
--hls_flags delete_segments \
-filmatolyesi_low.m3u8 &
-
-wait
