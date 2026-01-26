@@ -101,15 +101,29 @@ https://mn-nl.mncdn.com/gzttv/gzttv/master_480.m3u8
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
 
-#EXTINF:-1 group-title="Youtube" tvg-id="" tvg-logo="https://i.hizliresim.com/94rhlni.PNG" ,KuzeyMAX TV
+#EXTINF:-1 group-title="7/24 Film" tvg-id="" tvg-logo="https://i.hizliresim.com/94rhlni.PNG" ,KuzeyMAX TV
 http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
-#EXTINF:-1 group-title="Youtube" tvg-id="" tvg-logo="https://assets.uzunmuhalefet.com/logos/233e84b7-239e-433a-8234-6059c8141ab4.png",Süper Türk Tv
+
+#EXTINF:-1 group-title="7/24 Film" tvg-id="" tvg-logo="https://assets.uzunmuhalefet.com/logos/233e84b7-239e-433a-8234-6059c8141ab4.png",Süper Türk Tv
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-#EXTINF:-1 tvg-id="goldvodkemalsunal.tr" tvg-name="GOLDVOD TV KEMAL SUNAL" tvg-logo="https://img.favpng.com/12/23/24/kemal-sunal-filmografisi-logo-organization-human-behavior-png-favpng-YzrdyJR2yiYu67uYuknFDwkWH.jpg" group-title="|TR| 7/24 BOXSET",GOLDVOD TV KEMAL SUNAL
-https://goldvod.org/live/hpgdisco/123456/9515.m3u8
-#EXTINF:-1 tvg-id="goldvodsenersen.tr" tvg-name="GOLDVOD TV ŞENER ŞEN" group-title="|TR| 7/24 BOXSET",GOLDVOD TV ŞENER ŞEN
-https://goldvod.org/live/hpgdisco/123456/10152.m3u8
-#EXTINF:-1 tvg-id="globalboxkemalsunal.tr" tvg-name="GLOBAL BOX KEMAL SUNAL" group-title="|TR| SİNEMA &amp; DİZİ",GLOBAL BOX KEMAL SUNAL
+
+#EXTINF:-1 tvg-id="kemalsunal" tvg-name="Kemal Sunal 7/24" tvg-logo="https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj" group-title="Youtube",Kemal Sunal 7/24
+http://104.238.23.182/yt1/kms2.m3u8
+
+#EXTINF:-1 tvg-id="gulsahfilm" tvg-logo="https://yt3.googleusercontent.com/jHfMww520ZaX-PZ6CB5sqE5scVs0sl7Kgwc3rzzbzwa3IzXJy8iOyJM9WjLktwtLFgCbvpeZk9Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="7/24 Film",Gülşah Film 7/24
+http://104.238.23.182/yt1/kms3.m3u8
+
+#EXTINF:-1 tvg-id="filmatolyesi" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE=s160-c-k-c0x00ffffff-no-rj" group-title="7/24 Film",Film Atölyesi
+http://104.238.23.182/yt1/kms1.m3u8
+
+#EXTINF:-1 tvg-id="arzufilm" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE=s160-c-k-c0x00ffffff-no-rj" group-title="7/24 Film",Arzu Film Yeşilçam 7/24
+http://104.238.23.182/yt1/kms.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgrosetta.webtekno.com/file/385822/800x450.jpg" group-title="7/24 Film",Zeki Metin Filmleri
+http://5.178.103.239:82/yt1/s/zekimetin.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbj_eZYQe2EQ_vsGSK2vXLkucjK_v2cdy5vtQqEk8L1w&s=10" group-title="Youtube",Yeşilçam 1
+http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/rewind-259999.m3u8
 
 #EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEkOvyA9gsyyl98fITmCo5Ik8_luEzOXgbdZT0rkFA-tWroaFPtfkqJI&s" group-title="ÇOCUK👶",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
@@ -158,20 +172,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
 
 
 
-#EXTINF:-1 tvg-id="kemalsunal" tvg-name="Kemal Sunal 7/24" tvg-logo="https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj" group-title="Youtube",Kemal Sunal 7/24
-http://87.121.104.29:145/kemalsunal/stream.m3u8
 
-#EXTINF:-1 tvg-id="gulsahfilm" tvg-name="Gülşah Film 7/24" tvg-logo="https://yt3.googleusercontent.com/jHfMww520ZaX-PZ6CB5sqE5scVs0sl7Kgwc3rzzbzwa3IzXJy8iOyJM9WjLktwtLFgCbvpeZk9Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="Youtube",Gülşah Film 7/24
-http://87.121.104.29:145/gulsahfilm/stream.m3u8
-
-#EXTINF:-1 tvg-id="arzufilm" tvg-name="Arzu Film Yeşilçam 7/24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE=s160-c-k-c0x00ffffff-no-rj" group-title="Youtube",Arzu Film Yeşilçam 7/24
-http://87.121.104.29:145/arzufilm/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgrosetta.webtekno.com/file/385822/800x450.jpg" group-title="Youtube",Zeki Metin Filmleri
-http://5.178.103.239:82/yt1/s/zekimetin.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbj_eZYQe2EQ_vsGSK2vXLkucjK_v2cdy5vtQqEk8L1w&s=10" group-title="Youtube",Yeşilçam 1
-http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/rewind-259999.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbj_eZYQe2EQ_vsGSK2vXLkucjK_v2cdy5vtQqEk8L1w&s=10" group-title="Youtube",Yeşilçam 2
 http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv2/tracks-v1a1/rewind-259999.m3u8
