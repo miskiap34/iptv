@@ -107,6 +107,12 @@ http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 #EXTINF:-1 group-title="7/24 Film" tvg-id="superturk.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/233e84b7-239e-433a-8234-6059c8141ab4.png",Süper Türk Tv
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
+#EXTINF:-1 group-title="7/24 Film" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/viziturk_komedi_TmR.png",ViziTürk Komedi
+https://tv.cdn-vizi.workers.dev/?ID=10
+
+#EXTINF:-1 group-title="7/24 Film" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/viziturk_klasik_eQm.png",ViziTürk Klasik
+https://tv.cdn-vizi.workers.dev/?ID=11
+
 #EXTINF:-1 tvg-id="kemalsunal" tvg-logo="https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj" group-title="7/24 Film",Kemal Sunal
 http://104.238.23.182/yt1/kms2.m3u8?max_resolution=720p
 
@@ -245,6 +251,8 @@ http://65.108.239.207:80/sinemayerli/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaX6Ybc_dxbX0smilnSzqMuRjR7c-3A1WlU3oFK7AnxQ&s=10" group-title="Sinema",Sinema Yerli 2
 http://65.108.239.207:80/sinemayerli2/index.m3u8
 
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/vizi_belgesel.png",Vizi Belgesel
+https://tv.cdn-vizi.workers.dev/?ID=96
 #EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="https://w7.pngwing.com/pngs/850/1001/png-transparent-computer-icons-logo-of-the-bbc-bbc-world-news-uc-browser-text-rectangle-logo.png" group-title="Belgesel",BBC
 http://65.108.239.207:80/bbc/index.m3u8
 
