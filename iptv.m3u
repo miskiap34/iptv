@@ -44,13 +44,13 @@ http://89.187.191.41/ATV-HD-TR/video.m3u8
 http://95.174.71.114/TR-KANAL-D/index.m3u8
 
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="ULUSAL KANALLAR",STAR
-http://95.174.71.114/TR-STAR/index.m3u8
+https://tv.cdn-vizi.workers.dev/?ID=05
 
 #EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="ULUSAL KANALLAR",SHOW TV
-http://65.108.239.207/showtv/index.m3u8
+https://tv.cdn-vizi.workers.dev/?ID=03
 
 #EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="ULUSAL KANALLAR",NOW
-http://95.174.71.114/TR-FOX/index.m3u8
+https://tv.cdn-vizi.workers.dev/?ID=04
 
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://assets.uzunmuhalefet.com/logos/9af5ca05-f788-4ca3-9fd3-92c89d555c2b.png" group-title="ULUSAL KANALLAR",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
@@ -71,10 +71,10 @@ https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?ce=3&app=6aab838a-437e-4a1
 https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
 
 #EXTINF:-1 tvg-id="ahaber.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/A-haber-tr.png" group-title="HABER",A HABER
-http://65.108.239.207/ahaber/index.m3u8
+https://tv.cdn-vizi.workers.dev/?ID=14
 
-#EXTINF:-1 tvg-id="cnnturk.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/CNN_Turk.svg/revision/latest?cb=20140625184934" group-title="HABER",CNN Türk
-http://95.174.71.114/TR-CNN-TURK/index.m3u8
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-ogo="https://static.wikia.nocookie.net/logopedia/images/2/2b/CNN_Turk.svg/revision/latest?cb=20140625184934" group-title="HABER",CNN Türk
+https://tv.cdn-vizi.workers.dev/?ID=12
 
 #EXTINF:-1 tvg-id="ntv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/71dca388-e7d8-46c0-9b28-439b954a7613.png" group-title="HABER",NTV
 http://95.174.71.114/TR-NTV/index.m3u8
