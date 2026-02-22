@@ -89,7 +89,7 @@ https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
 
 #EXTINF:-1  tvg-id="sozcutv.tr" tvg-logo="https://tv.canlitvme.com/poster/sozcu-tv-canli.png" group-title="HABER",Sözcü TV
-http://65.108.239.207/sozcutv/index.m3u8
+https://tv.cdn-vizi.workers.dev/?ID=18
 
 #EXTINF:-1 tvg-id="360tv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/9c668bd2-85f6-464d-b366-611e84c6f372.png" group-title="HABER",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
