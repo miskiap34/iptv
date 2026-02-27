@@ -6,8 +6,7 @@ x-tvg-url="https://goldvod.site/xmltv.php?username=hpgdiscoo&password=123456"
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Diziler", Kızılcık Şerbeti 
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizilcik.Serbeti.SON.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Diziler",Sahipsizler
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahipsizler.SON.mkv
+
 
 #EXTINF:-1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/6729d42ff072a7bd36dcbc1d.jpg" group-title="Diziler",Uzak Şehir
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Uzak.Sehir.SON.mkv
