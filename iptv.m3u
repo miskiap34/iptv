@@ -29,10 +29,10 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/A.B.I.SON.mkv
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/c43c931c-f79b-4adf-a7de-3aa0d0fe785e.png" group-title="ULUSAL KANALLAR",TRT 2
-http://95.174.71.114/TR-TRT2/index.m3u8
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/b92d1f4b-55f5-4950-81ae-e4c31cd5e856.png" group-title="ULUSAL KANALLAR",TRT Türk
-https://tv-trtturk.medya.trt.com.tr/master_480.m3u8
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="tabiitv.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8-YMCO-cvV3qk_skx82iolzNKQEBgV_RVek4DHFJTg2TMa8pqcVH9x1o&s=10" group-title="ULUSAL KANALLAR",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
