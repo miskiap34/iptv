@@ -59,13 +59,13 @@ https://thebest.umittv.workers.dev/?url=https://www.kanald.com.tr/canli-yayin&ex
 
 
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="ULUSAL KANALLAR",STAR
-https://tv.cdn-vizi.workers.dev/?ID=05
+https://heyheey.denek1544.workers.dev/izle/startv-113.m3u8
 
 #EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="ULUSAL KANALLAR",SHOW TV
-https://tv.cdn-vizi.workers.dev/?ID=03
+https://heyheey.denek1544.workers.dev/izle/showtv.m3u8
 
 #EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="ULUSAL KANALLAR",NOW
-https://tv.cdn-vizi.workers.dev/?ID=04
+https://heyheey.denek1544.workers.dev/izle/foxtv.m3u8
 
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://assets.uzunmuhalefet.com/logos/9af5ca05-f788-4ca3-9fd3-92c89d555c2b.png" group-title="ULUSAL KANALLAR",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
@@ -86,7 +86,7 @@ https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?ce=3&app=6aab838a-437e-4a1
 https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
 
 #EXTINF:-1 tvg-id="ahaber.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/A-haber-tr.png" group-title="HABER",A HABER
-https://tv.cdn-vizi.workers.dev/?ID=14
+http://65.108.239.207/ahaber/index.m3u8
 
 #EXTINF:-1 tvg-id="cnnturk.tr" tvg-ogo="https://static.wikia.nocookie.net/logopedia/images/2/2b/CNN_Turk.svg/revision/latest?cb=20140625184934" group-title="HABER",CNN Türk
 https://tv.cdn-vizi.workers.dev/?ID=12
