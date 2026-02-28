@@ -39,31 +39,17 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://assets.uzunmuhalefet.com/logos/f49135ae-a8f7-45b4-8762-e3e447215e7d.png" group-title="ULUSAL KANALLAR",KANAL D
-https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
-
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://assets.uzunmuhalefet.com/logos/f49135ae-a8f7-45b4-8762-e3e447215e7d.png" group-title="ULUSAL KANALLAR",KANAL D KOPRULU
-https://stream-extractor.koprulu2.workers.dev/?url=https://www.kanald.com.tr/canli-yayin
-
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://assets.uzunmuhalefet.com/logos/f49135ae-a8f7-45b4-8762-e3e447215e7d.png" group-title="ULUSAL KANALLAR",KANAL D DSMART GO
-http://tv.dsmart-go.workers.dev/?ID=https://www.kanald.com.tr/canli-yayin&ext=m3u8
-
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://assets.uzunmuhalefet.com/logos/f49135ae-a8f7-45b4-8762-e3e447215e7d.png" group-title="ULUSAL KANALLAR",KANAL D web&amp;ce=3
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&amp;ce=3
-
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://assets.uzunmuhalefet.com/logos/f49135ae-a8f7-45b4-8762-e3e447215e7d.png" group-title="ULUSAL KANALLAR",KANAL D umittv
-https://thebest.umittv.workers.dev/kanald
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://assets.uzunmuhalefet.com/logos/f49135ae-a8f7-45b4-8762-e3e447215e7d.png" group-title="ULUSAL KANALLAR",KANAL D umittv uzun
-https://thebest.umittv.workers.dev/?url=https://www.kanald.com.tr/canli-yayin&ext=m3u8
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_720p.m3u8
 
 
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="ULUSAL KANALLAR",STAR
 http://tv.glturk.workers.dev/?ID=StarTV_HD
 
 #EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="ULUSAL KANALLAR",SHOW TV
-https://heyheey.denek1544.workers.dev/izle/showtv.m3u8
+https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?app=showtv_web
 
 #EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="ULUSAL KANALLAR",NOW
-https://heyheey.denek1544.workers.dev/izle/foxtv.m3u8
+http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://assets.uzunmuhalefet.com/logos/9af5ca05-f788-4ca3-9fd3-92c89d555c2b.png" group-title="ULUSAL KANALLAR",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
@@ -87,10 +73,11 @@ https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
 http://65.108.239.207/ahaber/index.m3u8
 
 #EXTINF:-1 tvg-id="cnnturk.tr" tvg-ogo="https://static.wikia.nocookie.net/logopedia/images/2/2b/CNN_Turk.svg/revision/latest?cb=20140625184934" group-title="HABER",CNN Türk
-https://tv.cdn-vizi.workers.dev/?ID=12
+https://cdn.tecostream.xyz/Cnn_Turk.m3u8
 
 #EXTINF:-1 tvg-id="ntv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/71dca388-e7d8-46c0-9b28-439b954a7613.png" group-title="HABER",NTV
-https://tv.cdn-vizi.workers.dev/?ID=17
+https://cdn.tecostream.xyz/NTV.m3u8
+
 
 #EXTINF:-1 tvg-id="haberturktv.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_elBAqdmjI1RCN9YoKtkVSTcEGIb-oscbbChM9Ql_5g&s=10" group-title="HABER",HABERTÜRK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
@@ -102,7 +89,7 @@ https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
 
 #EXTINF:-1  tvg-id="sozcutv.tr" tvg-logo="https://tv.canlitvme.com/poster/sozcu-tv-canli.png" group-title="HABER",Sözcü TV
-https://tv.cdn-vizi.workers.dev/?ID=18
+https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 
 #EXTINF:-1 tvg-id="360tv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/9c668bd2-85f6-464d-b366-611e84c6f372.png" group-title="HABER",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
