@@ -2,6 +2,7 @@
 x-tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml"
 x-tvg-url="https://goldvod.site/xmltv.php?username=hpgdisco&password=123456"
 x-tvg-url="https://goldvod.site/xmltv.php?username=hpgdiscoo&password=123456"
+x-tvg-url="https://iptv-epg.org/files/epg-tr.xml"
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Diziler", Kızılcık Şerbeti 
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizilcik.Serbeti.SON.mkv
@@ -24,7 +25,7 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guller.ve.Gunahlar.SON.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3.jpg" group-title="Diziler",A.B.İ
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/A.B.I.SON.mkv
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" group-title="ULUSAL KANALLAR",TRT1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" group-title="ULUSAL KANALLAR",TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/c43c931c-f79b-4adf-a7de-3aa0d0fe785e.png" group-title="ULUSAL KANALLAR",TRT 2
