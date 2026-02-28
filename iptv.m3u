@@ -29,7 +29,7 @@ http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/c43c931c-f79b-4adf-a7de-3aa0d0fe785e.png" group-title="ULUSAL KANALLAR",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/b92d1f4b-55f5-4950-81ae-e4c31cd5e856.png" group-title="ULUSAL KANALLAR",TRT Türk
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/TRTTURK.tr.png" group-title="ULUSAL KANALLAR",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="tabiitv.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8-YMCO-cvV3qk_skx82iolzNKQEBgV_RVek4DHFJTg2TMa8pqcVH9x1o&s=10" group-title="ULUSAL KANALLAR",Tabii TV
@@ -51,7 +51,7 @@ https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?app=showtv_web
 #EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="ULUSAL KANALLAR",NOW
 http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://assets.uzunmuhalefet.com/logos/9af5ca05-f788-4ca3-9fd3-92c89d555c2b.png" group-title="ULUSAL KANALLAR",KANAL 7
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://iptv-epg.org/logos/Turkey/KANAL7.tr.png" group-title="ULUSAL KANALLAR",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 #EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV" tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="ULUSAL KANALLAR",BEYAZ TV
@@ -63,7 +63,7 @@ https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tr9yvr73465&app=7ddc255a-ef47-4
 #EXTINF:-1 tvg-id="a2tv.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="ULUSAL KANALLAR",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
 
-#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/0209d87d-bc28-48a5-b1c0-0354f27017b7.png" group-title="ULUSAL KANALLAR",Teve2
+#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/Teve2.tr.png" group-title="ULUSAL KANALLAR",Teve2
 https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
 
 #EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-haber-televizyon-kanali.3fee2de.png" group-title="HABER",TRT HABER
@@ -75,7 +75,7 @@ http://65.108.239.207/ahaber/index.m3u8
 #EXTINF:-1 tvg-id="cnnturk.tr" tvg-ogo="https://static.wikia.nocookie.net/logopedia/images/2/2b/CNN_Turk.svg/revision/latest?cb=20140625184934" group-title="HABER",CNN Türk
 https://cdn.tecostream.xyz/Cnn_Turk.m3u8
 
-#EXTINF:-1 tvg-id="ntv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/71dca388-e7d8-46c0-9b28-439b954a7613.png" group-title="HABER",NTV
+#EXTINF:-1 tvg-id="ntv.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/NTV.tr.png" group-title="HABER",NTV
 http://tv.glturk.workers.dev/?ID=NTVTurkiye_HD
 
 
@@ -85,7 +85,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-id="halktv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/8373e35a-90c5-4396-888a-eb0b8a3fb6d0.png" group-title="HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 
-#EXTINF:-1 tvg-id="tv100.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/6bdc7aae-f138-452b-a7c1-6f847ff2fa71.png" group-title="HABER",TV 100
+#EXTINF:-1 tvg-id="tv100.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/TV100.tr.png" group-title="HABER",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
 
 #EXTINF:-1  tvg-id="sozcutv.tr" tvg-logo="https://tv.canlitvme.com/poster/sozcu-tv-canli.png" group-title="HABER",Sözcü TV
