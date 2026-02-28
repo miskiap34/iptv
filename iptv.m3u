@@ -58,7 +58,7 @@ https://thebest.umittv.workers.dev/?url=https://www.kanald.com.tr/canli-yayin&ex
 
 
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="ULUSAL KANALLAR",STAR
-https://heyheey.denek1544.workers.dev/izle/startv-113.m3u8
+http://tv.glturk.workers.dev/?ID=StarTV_HD
 
 #EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="ULUSAL KANALLAR",SHOW TV
 https://heyheey.denek1544.workers.dev/izle/showtv.m3u8
