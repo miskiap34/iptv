@@ -46,7 +46,7 @@ http://65.108.239.207/kanald/index.m3u8
 http://tv.glturk.workers.dev/?ID=StarTV_HD
 
 #EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="ULUSAL KANALLAR",SHOW TV
-https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?app=showtv_web
+http://tv.glturk.workers.dev/?ID=ShowTV_HD
 
 #EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="ULUSAL KANALLAR",NOW
 http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
