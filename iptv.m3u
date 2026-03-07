@@ -49,7 +49,7 @@ http://tv.glturk.workers.dev/?ID=StarTV_HD
 http://tv.glturk.workers.dev/?ID=ShowTV_HD
 
 #EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="ULUSAL KANALLAR",NOW
-http://116.202.238.88/FOXTV_TR/tracks-v1a1/mono.m3u8
+https://dogus.tecostream.xyz/now.m3u8
 
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://iptv-epg.org/logos/Turkey/KANAL7.tr.png" group-title="ULUSAL KANALLAR",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
