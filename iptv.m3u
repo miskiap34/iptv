@@ -60,7 +60,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tr9yvr73465&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
 #EXTINF:-1 tvg-id="a2tv.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="ULUSAL KANALLAR",A2
-http://116.202.238.88/FOXTV_TR/tracks-v1a1/mono.m3u8
+http://89.187.191.41/A2-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/Teve2.tr.png" group-title="ULUSAL KANALLAR",Teve2
 https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
