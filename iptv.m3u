@@ -94,7 +94,7 @@ https://65.108.239.207/sozcutv/index.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 tvg-id="gzttv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-gzt-tv.png" group-title="HABER",GZT TV
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist_720p.m3u8
+https://raw.githubusercontent.com/miskiap34/iptv/refs/heads/main/gzt.m3u8
 #EXTINF:-1 tvg-id="tbmmtv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png" group-title="HABER",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
