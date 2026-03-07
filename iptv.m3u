@@ -59,7 +59,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/8a33c746-0aff-44e0-9f1a-1bb3515de3ad.png" group-title="ULUSAL KANALLAR",TV 8
 https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tr9yvr73465&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
-#EXTINF:-1 tvg-id="a2tv.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="ULUSAL KANALLAR",A2
+#EXTINF:-1 tvg-id="a2.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="ULUSAL KANALLAR",A2
 http://89.187.191.41/A2-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/Teve2.tr.png" group-title="ULUSAL KANALLAR",Teve2
@@ -95,7 +95,7 @@ https://65.108.239.207/sozcutv/index.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 tvg-id="gzttv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-gzt-tv.png" group-title="HABER",GZT TV
-https://raw.githubusercontent.com/miskiap34/iptv/refs/heads/main/gzt.m3u8
+https://streams.uzunmuhalefet.com/stream/ad800944-d66c-43b2-a6b2-cb590ad8075f.m3u8
 #EXTINF:-1 tvg-id="tbmmtv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png" group-title="HABER",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
