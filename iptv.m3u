@@ -105,6 +105,15 @@ http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 #EXTINF:-1 group-title="7/24 Film" tvg-id="superturk.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/233e84b7-239e-433a-8234-6059c8141ab4.png",Süper Türk Tv
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
+#EXTINF:-1 tvg-id="kemalsunal" tvg-name="Kemal Sunal 7/24" tvg-logo="https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj" group-title="YouTube Live",Kemal Sunal 7/24
+http://87.121.104.29:1796/kemalsunal/stream.m3u8
+
+#EXTINF:-1 tvg-id="arzufilm" tvg-name="Arzu Film Yeşilçam 7/24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE=s160-c-k-c0x00ffffff-no-rj" group-title="YouTube Live",Arzu Film Yeşilçam 7/24
+http://87.121.104.29:1796/arzufilm/stream.m3u8
+
+#EXTINF:-1 tvg-id="gulsahfilm" tvg-name="Gülşah Film 7/24" tvg-logo="https://yt3.googleusercontent.com/jHfMww520ZaX-PZ6CB5sqE5scVs0sl7Kgwc3rzzbzwa3IzXJy8iOyJM9WjLktwtLFgCbvpeZk9Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="YouTube Live",Gülşah Film 7/24
+http://87.121.104.29:1796/gulsahfilm/stream.m3u8
+
 #EXTINF:-1 group-title="7/24 Film" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/viziturk_komedi_TmR.png",ViziTürk Komedi
 https://tv.cdn-vizi.workers.dev/?ID=10
 
