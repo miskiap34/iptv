@@ -2,3 +2,4 @@
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2"
 #EXTINF:-1 tvg-id="gulsah" tvg-name="Gulsah Film HD" group-title="Sinema",Gulsah Film (720p)
 http://87.121.104.29:1796/gulsahfilm/stream.m3u8
+
