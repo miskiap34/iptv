@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,NAME="GZT TV 720p"
+#EXTINF:-1 tvg-id="gzttv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-gzt-tv.png" group-title="HABER",GZT TV (720p)
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
