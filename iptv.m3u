@@ -41,7 +41,6 @@ http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://assets.uzunmuhalefet.com/logos/f49135ae-a8f7-45b4-8762-e3e447215e7d.png" group-title="ULUSAL KANALLAR",KANAL D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 
-
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="ULUSAL KANALLAR",STAR
 http://tv.glturk.workers.dev/?ID=StarTV_HD
 
@@ -112,6 +111,8 @@ https://tv.cdn-vizi.workers.dev/?ID=10
 #EXTINF:-1 group-title="7/24 Film" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/viziturk_klasik_eQm.png",ViziTürk Klasik
 https://tv.cdn-vizi.workers.dev/?ID=11
 
+#EXTINF:-1 tvg-name="TV 4" tvg-id="tv4.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/83e033f3-6cb3-4afa-8aec-85f2a049648f.png" group-title="7/24 Film",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-id="tivi6.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/82d9c0fb-ef2d-4f75-9eb5-673b7ed8b10b.png" group-title="7/24 Film",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
@@ -134,8 +135,6 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/11/403/png-transparent-disney-junior-logo-music-television-channel-lyngsat-musical-disney-text-logo-music-video.png" group-title="ÇOCUK👶",DİSNEY JR
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
-#EXTINF:-1 tvg-name="TV 4" tvg-id="tv4.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/83e033f3-6cb3-4afa-8aec-85f2a049648f.png" group-title="Sinema",TV 4
-https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-id="dmax" tvg-name="Dmax Antik Mısır 7/24" tvg-logo="https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s160-c-k-c0x00ffffff-no-rj" group-title="Belgesel",Dmax Antik Mısır 7/24
 http://87.121.104.29:145/dmax/stream.m3u8
