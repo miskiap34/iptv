@@ -27,7 +27,7 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/A.B.I.SON.mkv
 
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/TRT1.tr.png" group-title="ULUSAL KANALLAR",TRT 1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+http://tv.glturk.workers.dev/?ID=TRT1_HD
 
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/TRT2.tr.png" group-title="ULUSAL KANALLAR",TRT 2
