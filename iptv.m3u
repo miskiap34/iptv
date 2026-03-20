@@ -50,7 +50,7 @@ https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web
 https://dygvideo.dygdigital.com/live/hls/startv4puhu
 
 #EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="ULUSAL KANALLAR",SHOW TV
-http://tv.glturk.workers.dev/?ID=ShowTV_HD
+https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?app=showtv_web
 
 #EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="ULUSAL KANALLAR",NOW
 https://dogus.tecostream.xyz/now.m3u8
