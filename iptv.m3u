@@ -79,7 +79,7 @@ https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
 #EXTINF:-1 tvg-id="ahaber.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/A-haber-tr.png" group-title="HABER",A HABER
 https://cdn.tecostream.xyz/A_haber.m3u8
 #EXTINF:-1 tvg-id="apara.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/A-haber-tr.png" group-title="HABER",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=PqDSj_kS18CM-Jiji4I8jw&e=1774326538
+http://87.121.104.29:1796/aparayt/stream.m3u8
 
 #EXTINF:-1 tvg-id="cnnturk.tr" tvg-ogo="https://static.wikia.nocookie.net/logopedia/images/2/2b/CNN_Turk.svg/revision/latest?cb=20140625184934" group-title="HABER",CNN Türk
 https://cdn.tecostream.xyz/Cnn_Turk.m3u8
