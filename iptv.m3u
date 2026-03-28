@@ -53,7 +53,7 @@ http://87.246.54.249:8080/StarTV/index.m3u8
 https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?app=showtv_web
 
 #EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="ULUSAL KANALLAR",NOW
-http://87.246.54.249:8080/NOW/index.m3u8
+http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
 
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://iptv-epg.org/logos/Turkey/KANAL7.tr.png" group-title="ULUSAL KANALLAR",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
