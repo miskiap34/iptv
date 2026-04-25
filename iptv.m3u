@@ -114,27 +114,7 @@ https://streams.uzunmuhalefet.com/stream/ad800944-d66c-43b2-a6b2-cb590ad8075f.m3
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
 
-#EXTINF:-1 group-title="7/24 Film" tvg-id="kuzeymax.tr" tvg-logo="https://i.hizliresim.com/94rhlni.PNG" ,KuzeyMAX TV
-http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 
-#EXTINF:-1 group-title="7/24 Film" tvg-id="superturk.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/233e84b7-239e-433a-8234-6059c8141ab4.png",Süper Türk Tv
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-
-#EXTINF:-1 tvg-id="kemalsunal" tvg-name="Kemal Sunal 7/24" tvg-logo="https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj" group-title="YouTube Live",Kemal Sunal 7/24
-http://87.121.104.29:1796/kemalsunal/stream.m3u8
-
-#EXTINF:-1 tvg-id="arzufilm" tvg-name="Arzu Film Yeşilçam 7/24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE=s160-c-k-c0x00ffffff-no-rj" group-title="YouTube Live",Arzu Film Yeşilçam 7/24
-http://87.121.104.29:1796/arzufilm/stream.m3u8
-
-#EXTINF:-1 tvg-id="gulsahfilm" tvg-name="Gülşah Film 7/24" tvg-logo="https://yt3.googleusercontent.com/jHfMww520ZaX-PZ6CB5sqE5scVs0sl7Kgwc3rzzbzwa3IzXJy8iOyJM9WjLktwtLFgCbvpeZk9Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="YouTube Live",Gülşah Film
-http://87.121.104.29:1796/gulsahfilm/stream.m3u8
-
-
-#EXTINF:-1 group-title="7/24 Film" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/viziturk_komedi_TmR.png",ViziTürk Komedi
-https://tv.cdn-vizi.workers.dev/?ID=10
-
-#EXTINF:-1 group-title="7/24 Film" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/viziturk_klasik_eQm.png",ViziTürk Klasik
-https://tv.cdn-vizi.workers.dev/?ID=11
 
 #EXTINF:-1 tvg-name="TV 4" tvg-id="tv4.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/83e033f3-6cb3-4afa-8aec-85f2a049648f.png" group-title="7/24 Film",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
@@ -144,114 +124,15 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="dmax" tvg-name="Dmax Antik Mısır 7/24" tvg-logo="https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s160-c-k-c0x00ffffff-no-rj" group-title="Belgesel",Dmax Antik Mısır 7/24
-http://87.121.104.29:145/dmax/stream.m3u8
-
-#EXTINF:-1 tvg-id="tlcsucvearastirma" tvg-name="TLC Suç ve Araştırma" tvg-logo="https://yt3.googleusercontent.com/_4BCgYVYzh2eD6doip7g2IopQ6uNdc4EbPJHtYwHBKTopTSPjcio-X0JEBlYi9vdaxP5bEBdgQ=s160-c-k-c0x00ffffff-no-rj" group-title="Belgesel",TLC Suç ve Araştırma
-http://87.121.104.29:145/tlcsucvearastirma/stream.m3u8
-
-#EXTINF:-1 tvg-id="naturetimetr" tvg-name="Nature Time Türkçede" tvg-logo="https://yt3.googleusercontent.com/JwtQimeNj81XMiK6LjTT3Lfkorlme3nIWTF81K7EzugjszPuU3wD3dstoHvt4SRgb4EG1H1U=s160-c-k-c0x00ffffff-no-rj" group-title="Belgesel",Nature Time Türkçede
-http://87.121.104.29:145/naturetimetr/stream.m3u8
-
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/8ae78da8-6ebd-4ba2-bd97-fcf61be6471e.png" group-title="Belgesel",TLC
 https://stream-extractor.koprulu2.workers.dev/?url=https://www.tlctv.com.tr/canli-izle&ext=m3u8
 
 #EXTINF:-1 tvg-id="dmax.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/f9f83480-1122-44da-9db1-93d16d10e249.png" group-title="Belgesel",DMAX
-https://thebest.umittv.workers.dev/dmax
+https://stream-extractor.koprulu2.workers.dev/?url=https://www.dmax.com.tr/canli-izle
 
 #EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/df68b5b5-c14f-4d9c-a8cb-b34a02f50c18.png" group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="tv logo" group-title="Sinema",Pofidix Sinema
-http://5.178.103.239:82/d/live/out.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="Sinema",Pofidix Sinema 2
-http://104.238.23.216/d/live/out.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="Sinema",Pofidix Sinema 3
-http://104.238.23.182/d/live/out.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="Sinema",Boncuk Tv
-http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSel-THlwh8i4M0Dl7Y-avHq-GpLtE4PJqiwA&usqp=CAU" group-title="Sinema",beIN Box Office 1
-http://65.108.239.207:80/box1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwbtIfNUDtUUcp-os0Frc4x5OHTaf6mEQ6Q2mQesmR7ledsvryhLrSF2M&s" group-title="Sinema",Bein Box Office 2
-http://65.108.239.207:80/box2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTHKLSWvTySrDpf2Uzxz0R3OxXxt9a0WaSkwTbzheJtN_WUxjm4jBk8A&s" group-title="Sinema",Bein Box Office 3
-http://65.108.239.207:80/box3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUbaESqmBnh6MYbOs49WZGFmCw5MaKliyzASUG6X-j8g&s=10" group-title="Sinema",Bein Movies Action
-http://65.108.239.207:80/bsaction1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtsm7ErcNkI7LafTfmcHzyCXtPYtjbBoqlOOBTGkURMw&s=10" group-title="Sinema",Bein Movies Family
-http://65.108.239.207:80/bsfamily/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Sinema",Bein Movies Premiere 1
-http://65.108.239.207:80/bspremier1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Sinema",Bein Movies Stars
-http://65.108.239.207:80/bsstars/index.m3u8
-
-#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWabSSsJMeRp3Hlrf4SqDFWqqBdbZiFM8pAfXZMyDK8Q&s=10" group-title="Sinema",Bein Movies Türk
-http://65.108.239.207:80/bsturk/index.m3u8
-
-#EXTINF:-1 tvg-id="moviesmarttürk.tr" tvg-logo="https://dsmart-internet.com/i/dsmart/75/0x0/5a2e2180402eb771a49592a8.jpg" group-title="Sinema",Movie Smart Türk 
-http://65.108.239.207:80/mvturk/index.m3u8
-
-#EXTINF:-1 tvg-id="sinematv.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX38IqF5xedoBrQrX9iEgUFLT77vil4OGsfI5oLbhPfQ&s=10" group-title="Sinema",Sinema Tv 1
-http://65.108.239.207:80/sinema/index.m3u8
-
-#EXTINF:-1 tvg-id="sinematv2.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX38IqF5xedoBrQrX9iEgUFLT77vil4OGsfI5oLbhPfQ&s=10" group-title="Sinema",Sinema Tv 2
-http://65.108.239.207:80/sinema2/index.m3u8
-
-#EXTINF:-1 tvg-id="sinematv1001.tr" tvg-logo="https://pbs.twimg.com/media/EeUptXvXYAAerMe?format=jpg&name=360x360" group-title="Sinema",Sinema 1001
-http://65.108.239.207:80/sinema1001/index.m3u8
-
-
-#EXTINF:-1 tvg-id="sinematv1002.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNT8RLFOuVZlKfvcyOojQVj25D9OG6drMFP69KJpv7D5O1fln0tTzxSP0&s" group-title="Sinema",Sinema 1002
-http://65.108.239.207:80/sinema1002/index.m3u8
-
-#EXTINF:-1 tvg-id="sinematvaksiyon.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJ8wecmrJ4Yxs3WKPqPZyHgEsXf2YbYm6buqakyGQTA&s=10" group-title="Sinema",Sinema Aksiyon 1
-http://65.108.239.207:80/sinemaaksiyon/index.m3u8
-
-
-#EXTINF:-1 tvg-id="sinematvaksiyon2.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1CqpNas9Mb8BH0E0saxB8sHztgtdnlzNAQV2_OBpzng&s=10" group-title="Sinema",Sinema Aksiyon 2
-http://65.108.239.207:80/sinemaaksiyon2/index.m3u8
-
-#EXTINF:-1 tvg-id="sinemaaile.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSJhnrPRg0T0Ap4IPv_KULAH3q6sGgZsgyGbYJhpIyQ&s=10" group-title="Sinema",Sinema Aile
-http://65.108.239.207:80/sinemaaile/index.m3u8
-
-#EXTINF:-1 tvg-id="sinemakomedi.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJyJZWrB4uqw3F0LUb9Da_-Ry_DETl9KWeNJijNky-UA&s=10" group-title="Sinema",Sinema Komedi
-http://65.108.239.207:80/sinemakomedi/index.m3u8
-
-#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOtfgYqWcoPn9lyxnMppj2ibFEecKDWPYahwEh0f3DBA&s=10" group-title="Sinema",Sinema Yerli 1
-http://65.108.239.207:80/sinemayerli/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaX6Ybc_dxbX0smilnSzqMuRjR7c-3A1WlU3oFK7AnxQ&s=10" group-title="Sinema",Sinema Yerli 2
-http://65.108.239.207:80/sinemayerli2/index.m3u8
-
-#EXTINF:-1 group-title="Belgesel" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/vizi_belgesel.png",Vizi Belgesel
-https://tv.cdn-vizi.workers.dev/?ID=96
-#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="https://w7.pngwing.com/pngs/850/1001/png-transparent-computer-icons-logo-of-the-bbc-bbc-world-news-uc-browser-text-rectangle-logo.png" group-title="Belgesel",BBC
-http://65.108.239.207:80/bbc/index.m3u8
-
-#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Belgesel",Discovery
-http://65.108.239.207:80/discovery/index.m3u8
-
-#EXTINF:-1 tvg-id="docuscreen.tr" tvg-logo="https://w7.pngwing.com/pngs/931/338/png-transparent-high-definition-television-television-channel-docubox-hd-logo-others-television-text-logo.png" group-title="Belgesel",DucoScreen
-http://65.108.239.207:80/docubox/index.m3u8
-
-#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="https://w7.pngwing.com/pngs/537/284/png-transparent-history-television-channel-logo-h2-history-miscellaneous-television-angle-thumbnail.png" group-title="Belgesel",History
-http://65.108.239.207:80/history/index.m3u8
-
-#EXTINF:-1 tvg-id="tarihtv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/500px-Tarih-tv-logo-siyah-1080x1080.png" group-title="Belgesel",Tarih Tv
-http://65.108.239.207:80/tarihtv/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png" group-title="Belgesel",Nat Geo Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
