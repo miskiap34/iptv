@@ -135,3 +135,38 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png" group-title="Belgesel",Nat Geo Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/05224d68-1e63-435b-b3f4-93f95e94b890.png",Kablo Info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.tvheryerde.workers.dev/ID=1102
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/22c5fe05-d70b-4c68-98fb-03bae4870e81.png",Sinema Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.tvheryerde.workers.dev/ID=1908
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/bd434731-0e47-4a37-997e-49f71340fcc6.png",Sinema Aksiyon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.tvheryerde.workers.dev/ID=1109
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/ae3d90a0-37ee-4e48-a6bc-1375e5f1329a.png",Sinema Yerli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.tvheryerde.workers.dev/ID=3304
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c8283b71-81f8-4fc6-8e48-6bb8f7f49ad7.png",Sinema Aile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.tvheryerde.workers.dev/ID=1911
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8d9fbebd-cade-492d-9cb4-6522cb558794.png",Sinema 1001
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.tvheryerde.workers.dev/ID=2602
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4145ea10-96ad-400d-8870-f22a075f4add.png",Sinema Komedi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.tvheryerde.workers.dev/ID=1110
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png",Trt 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.tvheryerde.workers.dev/ID=2508
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/33b10329-faa9-4247-aa46-92a305ed5a92.png",Atv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.tvheryerde.workers.dev/ID=2401
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/04fb743d-4a72-4907-8c54-f53b72c3600a.png",Show TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.tvheryerde.workers.dev/ID=3206
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png",Kanal D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV)
+http://cdn.tvheryerde.workers.dev/ID=3207
