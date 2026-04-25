@@ -93,7 +93,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn
 https://dogus.daioncdn.net/ntv/ntv_480p.m3u8
 
 
-#EXTINF:-1 tvg-id="haberturktv.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_elBAqdmjI1RCN9YoKtkVSTcEGIb-oscbbChM9Ql_5g&s=10" group-title="HABER",HABERTÜRK
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_elBAqdmjI1RCN9YoKtkVSTcEGIb-oscbbChM9Ql_5g&s=10" group-title="HABER",HABERTÜRK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 
 #EXTINF:-1 tvg-id="halktv.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/HalkTV.tr.png" group-title="HABER",HALK TV
