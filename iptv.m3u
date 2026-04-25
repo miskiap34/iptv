@@ -25,11 +25,8 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guller.ve.Gunahlar.SON.mkv
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/A.B.I.SON.mkv
 
 
-
-
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/TRT1.tr.png" group-title="ULUSAL KANALLAR",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/TRT2.tr.png" group-title="ULUSAL KANALLAR",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
@@ -44,10 +41,8 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
 
-
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://iptv-epg.org/logos/Turkey/KanalD.tr.png" group-title="ULUSAL KANALLAR",KANAL D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web
-
 
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="ULUSAL KANALLAR",STAR TV
 https://mn-nl.mncdn.com/dogusdyg_star/live.m3u8?st=unLePRNJQmW8IEVYvoEM6A&e=1777223692
@@ -112,16 +107,11 @@ https://streams.uzunmuhalefet.com/stream/ad800944-d66c-43b2-a6b2-cb590ad8075f.m3
 #EXTINF:-1 tvg-id="tbmmtv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png" group-title="HABER",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
-
-
-
 #EXTINF:-1 tvg-name="TV 4" tvg-id="tv4.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/83e033f3-6cb3-4afa-8aec-85f2a049648f.png" group-title="7/24 Film",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-id="tivi6.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/82d9c0fb-ef2d-4f75-9eb5-673b7ed8b10b.png" group-title="7/24 Film",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/8ae78da8-6ebd-4ba2-bd97-fcf61be6471e.png" group-title="Belgesel",TLC
 https://stream-extractor.koprulu2.workers.dev/?url=https://www.tlctv.com.tr/canli-izle&ext=m3u8
