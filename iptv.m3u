@@ -86,7 +86,7 @@ https://cdn.tecostream.xyz/A_haber.m3u8
 #EXTINF:-1 tvg-id="apara.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/A-haber-tr.png" group-title="HABER",APara
 http://87.121.104.29:1796/aparayt/stream.m3u8
 
-#EXTINF:-1 tvg-id="cnnturk.tr" tvg-ogo="https://static.wikia.nocookie.net/logopedia/images/2/2b/CNN_Turk.svg/revision/latest?cb=20140625184934" group-title="HABER",CNN Türk
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/CNNT%C3%9CRK.tr.png" group-title="HABER",CNN Türk
 https://helga.iptv2022.com/cnn_turk/index.m3u8?%7CReferer=https://turkcanli.tv/
 
 #EXTINF:-1 tvg-id="ntv.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/NTV.tr.png" group-title="HABER",NTV
