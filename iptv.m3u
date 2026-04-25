@@ -107,6 +107,16 @@ https://streams.uzunmuhalefet.com/stream/ad800944-d66c-43b2-a6b2-cb590ad8075f.m3
 #EXTINF:-1 tvg-id="tbmmtv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png" group-title="HABER",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
+
+#EXTINF:-1,Bizim_Ev_Tv
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bizim_Ev_Tv.m3u8?t=1777146349
+#EXTINF:-1,Kemal_Sunal_Tv
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Kemal_Sunal_Tv.m3u8?t=1777146349
+#EXTINF:-1,Korku_Filmleri_Tv
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Korku_Filmleri_Tv.m3u8?t=1777146349
+
+
+
 #EXTINF:-1 tvg-name="TV 4" tvg-id="tv4.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/83e033f3-6cb3-4afa-8aec-85f2a049648f.png" group-title="7/24 Film",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
