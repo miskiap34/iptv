@@ -75,7 +75,7 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_480p.m3u8
 #EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/Teve2.tr.png" group-title="ULUSAL KANALLAR",Teve2
 https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
 
-#EXTINF:-1 group-title="ULUSAL KANALLAR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyt-turk-tr.png" tvg-url="https://tytturk.com/" tvg-id="TYTTurk.tr",TYT Türk
+#EXTINF:-1 tvg-id="tytturk.tr" group-title="ULUSAL KANALLAR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyt-turk-tr.png" tvg-url="https://tytturk.com/" tvg-id="TYTTurk.tr",TYT Türk
 https://tytturk-live.ercdn.net/tytturk/tytturk_720p.m3u8
 
 #EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-haber-televizyon-kanali.3fee2de.png" group-title="HABER",TRT HABER
