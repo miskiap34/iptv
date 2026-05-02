@@ -45,7 +45,7 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web
 
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="ULUSAL KANALLAR",STAR TV
-https://dogus.daioncdn.net/startv/startv_720p.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
+http://live.cdn-vizi.workers.dev/?ID=5
 
 #EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="ULUSAL KANALLAR",SHOW TV
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_480p.m3u8
