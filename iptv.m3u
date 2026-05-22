@@ -42,7 +42,7 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 
 
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://iptv-epg.org/logos/Turkey/KanalD.tr.png" group-title="ULUSAL KANALLAR",KANAL D
-https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web
+https://stream-extractor.koprulu2.workers.dev/https://www.kanald.com.tr/canli-yayin
 
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="ULUSAL KANALLAR",STAR TV
 http://live.cdn-vizi.workers.dev/?ID=5
