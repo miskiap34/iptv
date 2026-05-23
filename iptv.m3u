@@ -25,13 +25,13 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guller.ve.Gunahlar.SON.mkv
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/A.B.I.SON.mkv
 
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/TRT1.tr.png" group-title="ULUSAL KANALLAR",TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-1-tr.svg" group-title="ULUSAL KANALLAR",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/TRT2.tr.png" group-title="ULUSAL KANALLAR",TRT 2
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-2-tr.svg" group-title="ULUSAL KANALLAR",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/TRTTURK.tr.png" group-title="ULUSAL KANALLAR",TRT Türk
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-turk-tr.png" group-title="ULUSAL KANALLAR",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="tabiitv.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8-YMCO-cvV3qk_skx82iolzNKQEBgV_RVek4DHFJTg2TMa8pqcVH9x1o&s=10" group-title="ULUSAL KANALLAR",Tabii TV
@@ -41,7 +41,7 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 
 
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://iptv-epg.org/logos/Turkey/KanalD.tr.png" group-title="ULUSAL KANALLAR",KANAL D
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-tr.svg" group-title="ULUSAL KANALLAR",KANAL D
 https://stream-extractor.koprulu2.workers.dev/?url=https://www.kanald.com.tr/canli-yayin
 
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="ULUSAL KANALLAR",STAR TV
@@ -53,7 +53,7 @@ http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_480p.m3u8
 #EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="ULUSAL KANALLAR",NOW
 http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
 
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://iptv-epg.org/logos/Turkey/KANAL7.tr.png" group-title="ULUSAL KANALLAR",KANAL 7
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-7-tr.svg" group-title="ULUSAL KANALLAR",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 #EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV" tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="ULUSAL KANALLAR",BEYAZ TV
