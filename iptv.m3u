@@ -43,7 +43,7 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 http://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
 
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="ULUSAL KANALLAR",STAR TV
-http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
+http://cdn.vizitv.workers.dev/5.m3u8
 
 #EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="ULUSAL KANALLAR",SHOW TV
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_480p.m3u8
@@ -73,7 +73,7 @@ https://tytturk-live.ercdn.net/tytturk/tytturk_720p.m3u8
 https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
 
 #EXTINF:-1 tvg-id="ahaber.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/A-haber-tr.png" group-title="HABER",A HABER
-https://cdn.tecostream.xyz/A_haber.m3u8
+http://cdn.vizitv.workers.dev/14.m3u8
 
 #EXTINF:-1 tvg-id="apara.tr" tvg-logo="https://picon-13398.kxcdn.com/aparatr.jpg" group-title="HABER",A Para
 https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
@@ -95,7 +95,7 @@ https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
 
 #EXTINF:-1  tvg-id="sozcutv.tr" tvg-logo="https://tv.canlitvme.com/poster/sozcu-tv-canli.png" group-title="HABER",Sözcü TV
-https://helga.iptv2022.com/sh/szc_tv/index.m3u8
+http://cdn.vizitv.workers.dev/18.m3u8
 
 #EXTINF:-1 tvg-id="360tv.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/360.tr.png" group-title="HABER",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
