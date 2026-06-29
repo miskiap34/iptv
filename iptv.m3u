@@ -23,6 +23,11 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guller.ve.Gunahlar.SON.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3.jpg" group-title="Diziler",A.B.İ
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/A.B.I.SON.mkv
 
+#EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/dae992/820/547/0/0/820/547?u=https://iatv.tmgrup.com.tr/2026/06/10/alti-ustu-istanbuldan-etkileyici-afis-1781096873944.jpeg" group-title="Diziler", Altı Üstü İstanbul
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Alti.Ustu.istanbul.SON.mkv
+
+
+
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-1-tr.svg" group-title="ULUSAL KANALLAR",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
