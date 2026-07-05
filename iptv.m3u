@@ -72,8 +72,7 @@ https://tytturk-live.ercdn.net/tytturk/tytturk_720p.m3u8
 https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
 
 #EXTINF:-1 tvg-id="ahaber.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/A-haber-tr.png" group-title="HABER",A HABER
-http://cdn.vizitv.workers.dev/14.m3u8
-
+https://trkvz.daioncdn.net/ahaber/ahaber.m3u8?app=web&st=4fFarEqPq2izdTHR0xPpnw&e=1783303289&ppid=6f8cbe7bde407832d1bf336abeea1b44
 #EXTINF:-1 tvg-id="apara.tr" tvg-logo="https://picon-13398.kxcdn.com/aparatr.jpg" group-title="HABER",A Para
 https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
 
