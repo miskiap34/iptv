@@ -35,12 +35,8 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-turk-tr.png" group-title="ULUSAL KANALLAR",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="tabiitv.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8-YMCO-cvV3qk_skx82iolzNKQEBgV_RVek4DHFJTg2TMa8pqcVH9x1o&s=10" group-title="ULUSAL KANALLAR",Tabii TV
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="ULUSAL KANALLAR",ATV
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
-
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-tr.svg" group-title="ULUSAL KANALLAR",KANAL D
 http://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
