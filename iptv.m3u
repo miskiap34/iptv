@@ -38,10 +38,10 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="ULUSAL KANALLAR",ATV
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-tr.svg" group-title="ULUSAL KANALLAR",KANAL D
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://iptv-epg.org/logos/Turkey/KanalD.tr.png" group-title="ULUSAL KANALLAR",KANAL D
 http://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
 
-#EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" group-title="ULUSAL KANALLAR",STAR TV
+#EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/StarTV.tr.png" group-title="ULUSAL KANALLAR",STAR TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
 #EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="ULUSAL KANALLAR",SHOW TV
@@ -50,7 +50,7 @@ http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_480p.m3u8
 #EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s" group-title="ULUSAL KANALLAR",NOW
 http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
 
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-7-tr.svg" group-title="ULUSAL KANALLAR",KANAL 7
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://iptv-epg.org/logos/Turkey/KANAL7.tr.png" group-title="ULUSAL KANALLAR",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 #EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV" tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="ULUSAL KANALLAR",BEYAZ TV
