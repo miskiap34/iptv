@@ -73,12 +73,10 @@ https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
 
 #EXTINF:-1 tvg-id="ahaber.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/A-haber-tr.png" group-title="HABER",A HABER
 https://trkvz.daioncdn.net/ahaber/ahaber.m3u8?app=web&st=4fFarEqPq2izdTHR0xPpnw&e=1783303289&ppid=6f8cbe7bde407832d1bf336abeea1b44
-#EXTINF:-1 tvg-id="apara.tr" tvg-logo="https://picon-13398.kxcdn.com/aparatr.jpg" group-title="HABER",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+
 
 #EXTINF:-1 tvg-id="cnnturk.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/CNNT%C3%9CRK.tr.png" group-title="HABER",CNN Türk
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
-
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=psYQUPTAV2sGxAzh03wbLA&e=1783269681
 #EXTINF:-1 tvg-id="ntv.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/NTV.tr.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_480p.m3u8
 
