@@ -26,7 +26,7 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Alti.Ustu.istanbul.SON.mkv
 
 
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-1-tr.svg" group-title="ULUSAL KANALLAR",TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://w7.pngwing.com/pngs/1014/588/png-transparent-trt-1-turkish-radio-and-television-corporation-turkey-trt-3-gazete-television-emblem-logo.png" group-title="ULUSAL KANALLAR",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-2-tr.svg" group-title="ULUSAL KANALLAR",TRT 2
@@ -59,14 +59,14 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://img.dsmartgo.com.tr/content/a/WI/13727/Thumbnail.png" group-title="ULUSAL KANALLAR",TV 8
 https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tr9yvr73465&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
-#EXTINF:-1 tvg-id="tv8,5.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv85_tr.png" group-title="ULUSAL KANALLAR",TV 8.5
+#EXTINF:-1 tvg-id="tv8,5.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh24iOk5rSx7pySFSs1coXz2OnvYes9WwqQa74J_1tjg&s=10" group-title="ULUSAL KANALLAR",TV 8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="a2.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="ULUSAL KANALLAR",A2
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_480p.m3u8
 
-#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/Teve2.tr.png" group-title="ULUSAL KANALLAR",TEVE 2
+#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAoyiF0npOxWsdPEBvkkXse9tG3h_60VTPleqehyhGA&s=10" group-title="ULUSAL KANALLAR",TEVE 2
 https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
 
 #EXTINF:-1 tvg-id="tytturk.tr" group-title="ULUSAL KANALLAR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyt-turk-tr.png" tvg-url="https://tytturk.com/" tvg-id="TYTTurk.tr",TYT Türk
