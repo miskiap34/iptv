@@ -92,7 +92,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 
 #EXTINF:-1 tvg-id="tv100.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/TV100.tr.png" group-title="HABER",TV 100
-https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
+https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
 
 #EXTINF:-1  tvg-id="sozcutv.tr" tvg-logo="https://tv.canlitvme.com/poster/sozcu-tv-canli.png" group-title="HABER",Sözcü TV
 https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/szc_tv/index.m3u8
