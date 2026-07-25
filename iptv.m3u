@@ -76,8 +76,7 @@ https://tytturk-live.ercdn.net/tytturk/tytturk_720p.m3u8
 https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
 
 #EXTINF:-1 tvg-id="ahaber.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/A-haber-tr.png" group-title="HABER",A HABER
-https://trkvz.daioncdn.net/ahaber/ahaber.m3u8?app=web&st=4fFarEqPq2izdTHR0xPpnw&e=1783303289&ppid=6f8cbe7bde407832d1bf336abeea1b44
-
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_480p.m3u8
 
 #EXTINF:-1 tvg-id="cnnturk.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/CNNT%C3%9CRK.tr.png" group-title="HABER",CNN Türk
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=psYQUPTAV2sGxAzh03wbLA&e=1783269681
@@ -87,6 +86,8 @@ https://dogus.daioncdn.net/ntv/ntv_480p.m3u8
 
 #EXTINF:-1 tvg-id="haberturk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_elBAqdmjI1RCN9YoKtkVSTcEGIb-oscbbChM9Ql_5g&s=10" group-title="HABER",HABERTÜRK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Tvnet_logo.png" group-title="HABER",TVNET
+https://tvnet-live.lg.mncdn.com/tvnet/tvnet/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="halktv.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/HalkTV.tr.png" group-title="HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
@@ -101,7 +102,7 @@ https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/s
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 tvg-id="gzttv.tr" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-gzt-tv.png" group-title="HABER",GZT TV
-https://streams.uzunmuhalefet.com/stream/ad800944-d66c-43b2-a6b2-cb590ad8075f.m3u8
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:-1 tvg-id="tbmmtv.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png" group-title="HABER",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
