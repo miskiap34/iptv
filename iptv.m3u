@@ -87,7 +87,7 @@ https://dogus.daioncdn.net/ntv/ntv_480p.m3u8
 #EXTINF:-1 tvg-id="haberturk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_elBAqdmjI1RCN9YoKtkVSTcEGIb-oscbbChM9Ql_5g&s=10" group-title="HABER",HABERTÜRK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-id="tvnet.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Tvnet_logo.png" group-title="HABER",TVNET
-https://tvnet-live.lg.mncdn.com/tvnet/tvnet/chunklist.m3u8
+https://tvnet-live.lg.mncdn.com/tvnet/tvnet/chunklist_480p.m3u8
 
 #EXTINF:-1 tvg-id="halktv.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/HalkTV.tr.png" group-title="HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
