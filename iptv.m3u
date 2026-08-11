@@ -42,7 +42,7 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 http://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
 
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://w7.pngwing.com/pngs/1021/682/png-transparent-star-tv-logo-television-show-television-channel-5-stars-miscellaneous-television-angle.png" group-title="ULUSAL KANALLAR",STAR TV
-http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=88jhb6leqiih&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
 #EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://w7.pngwing.com/pngs/192/666/png-transparent-turkey-show-tv-television-channel-show-tv-logo-television-text-logo.png" group-title="ULUSAL KANALLAR",SHOW TV
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_480p.m3u8
