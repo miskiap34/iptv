@@ -59,7 +59,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://img.dsmartgo.com.tr/content/a/WI/13727/Thumbnail.png" group-title="ULUSAL KANALLAR",TV 8
 https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tr9yvr73465&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
-#EXTINF:-1 tvg-id="tv8,5.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh24iOk5rSx7pySFSs1coXz2OnvYes9WwqQa74J_1tjg&s=10" group-title="ULUSAL KANALLAR", TV8,5
+#EXTINF:-1 tvg-id="tv8,5.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh24iOk5rSx7pySFSs1coXz2OnvYes9WwqQa74J_1tjg&s=10" group-title="ULUSAL KANALLAR" tv-name="TV8,5"
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 
 
