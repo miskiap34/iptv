@@ -78,7 +78,7 @@ https://ensonhaber-live.ercdn.net/trthaber/trthaber_720p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_480p.m3u8
 
 #EXTINF:-1 tvg-id="cnnturk.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/CNNT%C3%9CRK.tr.png" group-title="HABER",CNN Türk
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=psYQUPTAV2sGxAzh03wbLA&e=1783269681
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=T3gDdzRJ1hOtQnQ6TEXcmg&e=1792362642
 #EXTINF:-1 tvg-id="ntv.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/NTV.tr.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_480p.m3u8
 
@@ -86,7 +86,7 @@ https://dogus.daioncdn.net/ntv/ntv_480p.m3u8
 #EXTINF:-1 tvg-id="haberturk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_elBAqdmjI1RCN9YoKtkVSTcEGIb-oscbbChM9Ql_5g&s=10" group-title="HABER",HABERTÜRK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-id="tvnet.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Tvnet_logo.png" group-title="HABER",TVNET
-https://tvnet-live.lg.mncdn.com/tvnet/tvnet/chunklist_480p.m3u8
+https://tvnet-live.lg.mncdn.com/tvnet-live/tvnet/playlist_480p.m3u8
 
 #EXTINF:-1 tvg-id="halktv.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/HalkTV.tr.png" group-title="HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
