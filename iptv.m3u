@@ -131,8 +131,8 @@ https://stream-extractor.koprulu2.workers.dev/?url=https://www.dmax.com.tr/canli
 https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
 
 
-#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png" group-title="Belgesel",Nat Geo Wild
-https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="beinspors1.tr" tvg-logo="" group-title="SPOR",Bein Sport 1
+https://ladyboy.ardastream2.cfd/beintv/tracks-v1a1/mono.m3u8
 
 
 
