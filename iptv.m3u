@@ -51,10 +51,10 @@ http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_480p.m3u8
 http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
 
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://w7.pngwing.com/pngs/888/174/png-transparent-kanal-7-television-turksat-4a-drop-off-canal-kanal-2-television-text-trademark.png" group-title="ULUSAL KANALLAR",KANAL 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+https://kanal7-live.daioncdn.net/kanal7/kanal7_480p.m3u8
 
 #EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV" tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="ULUSAL KANALLAR",BEYAZ TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_480p.m3u8
 
 #EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://img.dsmartgo.com.tr/content/a/WI/13727/Thumbnail.png" group-title="ULUSAL KANALLAR",TV 8
 https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tr9yvr73465&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
