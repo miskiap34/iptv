@@ -85,6 +85,9 @@ https://dogus.daioncdn.net/ntv/ntv_480p.m3u8
 
 #EXTINF:-1 tvg-id="haberturk.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_elBAqdmjI1RCN9YoKtkVSTcEGIb-oscbbChM9Ql_5g&s=10" group-title="HABER",HABERTÜRK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+
+#EXTINF:-1  tvg-id="ulketv.tr" tvg-logo="https://tv.canlitvme.com/poster/sozcu-tv-canli.png" group-title="HABER",Ülke TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="tvnet.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Tvnet_logo.png" group-title="HABER",TVNET
 https://tvnet-live.lg.mncdn.com/tvnet-live/tvnet/playlist_480p.m3u8
 
@@ -96,6 +99,8 @@ https://ensonhaber-live.ercdn.net/tv100/tv100_720p.m3u8
 
 #EXTINF:-1  tvg-id="sozcutv.tr" tvg-logo="https://tv.canlitvme.com/poster/sozcu-tv-canli.png" group-title="HABER",Sözcü TV
 https://square-leaf-d613.panorea1000.workers.dev/?xml=ch872
+
+
 
 #EXTINF:-1 tvg-id="360tv.tr" tvg-logo="https://iptv-epg.org/logos/Turkey/360.tr.png" group-title="HABER",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
