@@ -1,5 +1,4 @@
 #EXTM3U 
-x-tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml"
 x-tvg-url="https://iptv-epg.org/files/epg-tr.xml"
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Diziler", Kızılcık Şerbeti 
@@ -101,7 +100,7 @@ https://halktv-live.daioncdn.net/halktv/halktv_480p.m3u8
 https://ensonhaber-live.ercdn.net/tv100/tv100_720p.m3u8
 
 #EXTINF:-1  tvg-id="sozcutv.tr" tvg-logo="https://tv.canlitvme.com/poster/sozcu-tv-canli.png" group-title="HABER",Sözcü TV
-https://square-leaf-d613.panorea1000.workers.dev/?xml=ch872
+https://helga.iptv2022.com/szc_tv/index.m3u8
 
 
 
