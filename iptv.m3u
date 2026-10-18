@@ -27,13 +27,13 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Alti.Ustu.istanbul.SON.mkv
 
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://w7.pngwing.com/pngs/1014/588/png-transparent-trt-1-turkish-radio-and-television-corporation-turkey-trt-3-gazete-television-emblem-logo.png" group-title="ULUSAL KANALLAR",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master_480.m3u8
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-2-tr.svg" group-title="ULUSAL KANALLAR",TRT 2
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+https://tv-trt2.medya.trt.com.tr/master_480.m3u8
 
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-turk-tr.png" group-title="ULUSAL KANALLAR",TRT Türk
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+https://tv-trtturk.medya.trt.com.tr/master_480.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="ULUSAL KANALLAR",ATV
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
